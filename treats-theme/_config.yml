@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Treat Template
-url: "https://spring-bat.cloudvent.net/"
+title: Dylan George Field's - Aussie Adventure
+url: "https://adventure.georgefield.com.au/"
 baseurl:
 google_analytics_key:
 newsletter_action:
@@ -10,7 +10,7 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Food blog template for Jekyll.
+description: Dylan George Field's blog for his motorbike adventures around the world 🛵
 author:
   name:
   email:
