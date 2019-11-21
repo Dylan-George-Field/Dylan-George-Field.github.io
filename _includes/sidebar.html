@@ -15,7 +15,17 @@
 		{% if site.data.sidebar.instagram && site.data.sidebar.instagram != "" %}<a target="_blank" href="https://www.instagram.com/{{ site.data.sidebar.instagram }}">{% include social-icon.html icon="Instagram" %}</a>{% endif %} 
 		<a target="_blank" href="{{ site.baseurl }}/feed.xml">{% include social-icon.html icon="RSS" %}</a>
 	</div>
-
+	<div class="donate">
+		<h3>Donate</h3>
+		<p> - Give to the Royal Flying Doctor Service of Australia</p>
+		<p> - Send a personal donation 🍻</p>
+	</div>
+	<div class="Sponsors">
+		<h3>Supported by</h3>
+		<p>B&B Offroad Engineering</p>
+		<p>Barkbusters Handgaurds</p>
+		<p>Lightforce Australia</p>
+	</div>
 	{% if site.newsletter_action && site.newsletter_action!=""%}<form action="{{ site.newsletter_action }}" method="post">
 		<h3>Newsletter</h3>
 		<p>Get my latest recipes sent straight to your inbox.</p>

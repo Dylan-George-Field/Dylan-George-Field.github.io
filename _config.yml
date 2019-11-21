@@ -4,9 +4,9 @@
 title: Dylan George Field - Adventure
 url: "https://adventure.georgefield.com.au"
 baseurl:
-google_analytics_key:
+google_analytics_key: UA-153074309-1
 newsletter_action:
-disqus_shortname:
+disqus_shortname: adventure-georgefield
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
