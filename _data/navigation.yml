@@ -2,7 +2,13 @@
   link: /
 - name: About
   link: /about/
-- name: Recipes
+- name: Episodes
+  link: /episodes
+- name: Map
+  link: /map/
+- name: Bikes
+  link: /about/
+- name: Blog
   link: /recipes/
 - name: Contact
   link: /contact/
