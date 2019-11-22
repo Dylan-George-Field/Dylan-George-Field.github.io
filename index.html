@@ -18,7 +18,9 @@ title: Home
 	</section>
 
 	<div class="episodes">
-		<h1 class="section-border">Episodes</h1>
+		<h1 class="section-border">
+			<a href="/episodes">Episodes</a>
+		</h1>
 		{% assign esize = site.posts.Episodes | size %}
 		{% if esize == 0 %}
 			<p class="no-episodes">
@@ -41,7 +43,11 @@ title: Home
 	</div>
 
 	<div class="blog">
-		<h1 class="section-border">Blog</h1>
+		<h1 class="section-border">
+			<a href="/blog">
+				Blog
+			</a>
+		</h1>
 		<section class="posts">
 			{% for post in paginator.posts %}
 				{% if post.categories contains "Feature" %}

@@ -24,4 +24,4 @@ recipe:
     5. Bake at 350°F for 15 minutes.
     6. Cool on a wire rack and keep in an airtight container once cold.
 ---
-I begun preparation for the epic 50,000km journey and will depart in April. The trip will take approximately 7 months. It will take me through Asia, Middle-East and Europe. It will be documented on Instagram & YouTube. Please contact me for sponsorship.
+Preparation has begun for the epic 50,000km journey. I'll depart in April, 2020. The trip will take approximately 7 months. I'll go through Asia, Middle-East and Europe. It will be documented on Instagram & YouTube. Please <a href="/contact">contact me</a> for details.

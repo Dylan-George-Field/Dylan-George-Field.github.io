@@ -3,6 +3,15 @@
         border-bottom: 1px solid black;
         padding-bottom: 10px;
         margin-bottom: 30px;
+
+        a {
+            color: #000;
+            text-decoration: none;
+
+            &:hover {
+                text-decoration: underline;
+            }
+        }
     }
     
     .episodes {
