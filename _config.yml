@@ -51,6 +51,7 @@ defaults:
       path: ""
     values:
       layout: "default"
+      push_sidebar_down: true
   -
     scope:
       path: "index.html"
