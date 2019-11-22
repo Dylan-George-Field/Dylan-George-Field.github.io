@@ -1,46 +1,77 @@
 ---
 title: Home
 ---
-<section class="posts">
-	{% for post in site.categories.Feature %}
-		<article class="post">
-			{% include post-heading.html post=post %}
-			<div class="image">
-				<img src="{{ post.featured_image }}" alt="{{ post.title }}">
-			</div>
+<div class="home">
+	<section class="posts">
+		{% for post in site.categories.Feature %}
+			<article class="post">
+				{% include post-heading.html post=post %}
+				<div class="image">
+					<img src="{{ post.featured_image }}" alt="{{ post.title }}">
+				</div>
 
-			{{ post.excerpt }}
+				{{ post.excerpt }}
 
-			<p><a class="button" href="{{ site.baseurl }}{{ post.url }}">Read more</a></p>
-		</article>
-	{% endfor %}
-</section>
+				<p><a class="button" href="{{ site.baseurl }}{{ post.url }}">Read more</a></p>
+			</article>
+		{% endfor %}
+	</section>
 
-<section class="posts">
-	{% for post in paginator.posts %}
-		<article class="post">
-			{% include post-heading.html post=post %}
-			<div class="image">
-				<img src="{{ post.featured_image }}" alt="{{ post.title }}">
-			</div>
+	<div class="episodes">
+		<h1 class="section-border">Episodes</h1>
+		{% assign esize = site.posts.Episodes | size %}
+		{% if esize == 0 %}
+			<p class="no-episodes">
+				There's no episodes yet.. I'm working on them! 🎬
+			</p>
+		{% else %}
+			{% for post in site.categories.Episodes %}
+				<article class="post">
+					{% include post-heading.html post=post %}
+					<div class="image">
+						<img src="{{ post.featured_image }}" alt="{{ post.title }}">
+					</div>
 
-			{{ post.excerpt }}
+					{{ post.excerpt }}
 
-			<p><a class="button" href="{{ site.baseurl }}{{ post.url }}">Read more</a></p>
-		</article>
-	{% endfor %}
+					<p><a class="button" href="{{ site.baseurl }}{{ post.url }}">Read more</a></p>
+				</article>
+			{% endfor %}
+		{% endif %}
+	</div>
 
-	{% if paginator.total_pages > 1 %}
-		<div class="pagination">
-			{% if paginator.previous_page %}
-				<a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="previous btn">&larr; Newer posts</a>
+	<div class="blog">
+		<h1 class="section-border">Blog</h1>
+		<section class="posts">
+			{% for post in paginator.posts %}
+				{% if post.categories contains "Feature" %}
+				{% else %}
+					<article class="post">
+						{% include post-heading.html post=post %}
+						<div class="image">
+							<img src="{{ post.featured_image }}" alt="{{ post.title }}">
+						</div>
+
+						{{ post.excerpt }}
+
+						<p><a class="button" href="{{ site.baseurl }}{{ post.url }}">Read more</a></p>
+					</article>
+				{% endif %}
+			{% endfor %}
+
+			{% if paginator.total_pages > 1 %}
+				<div class="pagination">
+					{% if paginator.previous_page %}
+						<a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="previous btn">&larr; Newer posts</a>
+					{% endif %}
+
+					<span class="page_number ">{{ paginator.page }} of {{ paginator.total_pages }}</span>
+
+					{% if paginator.next_page %}
+						<a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="next btn">Older posts &rarr;</a>
+					{% endif %}
+				</div>
 			{% endif %}
-
-			<span class="page_number ">{{ paginator.page }} of {{ paginator.total_pages }}</span>
-
-			{% if paginator.next_page %}
-				<a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="next btn">Older posts &rarr;</a>
-			{% endif %}
-		</div>
-	{% endif %}
-</section>
+		</section>
+	</div>
+</div>
