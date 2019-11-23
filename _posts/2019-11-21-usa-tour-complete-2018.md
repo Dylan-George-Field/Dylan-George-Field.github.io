@@ -1,6 +1,6 @@
 ---
 date: 2018-10-07
-title: 
+title: 2018 USA Tour is complete!
 categories:
   - Epic Rides
 featured_image: https://i.ibb.co/CbDkSbr/dylan-george-field-dr650-los-angeles.jpg
@@ -27,16 +27,5 @@ recipe:
     4. Transfer the batter to the prepared pan and bake until a toothpick inserted in the center comes out clean, 65 to 75 minutes. Cool the cake in the pan for 30 minutes, then turn it out onto a wire rack to cool completely.
     5. In a small bowl, whisk together the confectioners’ sugar and 1 of the remaining tablespoons of lemon juice until smooth, adding the remaining lemon juice as necessary to create a thick, but pourable glaze.
 ---
-If you're a sour fan you're going to love this cake. Lemon Cake is one of my favorite year-round desserts, but it is a perfect choice for spring and summer, when everyone tends to crave citrus or light & flavorful recipes
-
-![Cake](https://source.unsplash.com/1HPTYLozDGw)
-
-Straight out of the oven.
-
-![Cake](https://source.unsplash.com/WoVGndRTx2o)
-
-You can add extra flavour with berries.
-
-![Cake](https://source.unsplash.com/7JYVKRo7i5Q)
-
-Or a caramel sauce.
+After 89 days on the road the adventure came to an end. I travelled 35,000km and saw as much of North America as I could.
+Majority of my nights were spent camping, some days with friends and 10 nights in cheap hotels. The USA is as naturally diverse as its people. Thanks for having me.
