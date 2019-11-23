@@ -2,29 +2,32 @@
 title: Home
 ---
 <div class="home">
-	<section class="posts">
-		{% for post in site.categories.Feature %}
-			<article class="post">
-				{% include post-heading.html post=post %}
-				<div class="image">
-					<img src="{{ post.featured_image }}" alt="{{ post.title }}">
-				</div>
+	<div class="feature section">
+		<section class="posts">
+			{% for post in site.categories.Feature %}
+				<article class="post">
+					{% include post-heading.html post=post %}
+					<div class="image">
+						<img src="{{ post.featured_image }}" alt="{{ post.title }}">
+					</div>
 
-				{{ post.excerpt }}
+					{{ post.excerpt }}
 
-				<p><a class="button" href="{{ site.baseurl }}{{ post.url }}">Read more</a></p>
-			</article>
-		{% endfor %}
-	</section>
-
-	<div class="episodes">
+					<p><a class="button" href="{{ site.baseurl }}{{ post.url }}">Read more</a></p>
+				</article>
+			{% endfor %}
+		</section>
+	</div>
+	<div class="episodes section">
 		<h1 class="section-border">
-			<a href="/episodes">Episodes</a>
+			<a href="/episodes">
+				{% include social-icon.html icon="YouTube" %} Episodes
+			</a>
 		</h1>
 		{% assign esize = site.posts.Episodes | size %}
 		{% if esize == 0 %}
 			<p class="no-episodes">
-				There's no episodes yet.. I'm working on them! 🎬
+				There's no episodes yet.. Stay tuned! 🎬
 			</p>
 		{% else %}
 			{% for post in site.categories.Episodes %}
@@ -41,9 +44,11 @@ title: Home
 			{% endfor %}
 		{% endif %}
 	</div>
-	<div class="instagram">
+	<div class="instagram section">
 		<h1 class="section-border">
-			<a href="https://instagram.com/dylan_george_field">Instagram</a>
+			<a href="https://instagram.com/dylan_george_field">
+				{% include social-icon.html icon="Instagram" %} Instagram
+			</a>
 		</h1>
 			<ul>
 			</ul>
@@ -60,10 +65,10 @@ title: Home
 				});
 			</script>
 		</div>
-	<div class="blog">
+	<div class="blog section">
 		<h1 class="section-border">
 			<a href="/blog">
-				Blog
+				{% include social-icon.html icon="RSS" %} Blog
 			</a>
 		</h1>
 		<section class="posts">

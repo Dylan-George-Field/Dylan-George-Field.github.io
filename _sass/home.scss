@@ -1,4 +1,7 @@
 .home {
+    .section {
+        margin-bottom: 50px;
+    }
     .section-border {
         border-bottom: 1px solid black;
         padding-bottom: 10px;
@@ -13,8 +16,20 @@
             }
         }
     }
+
+    h1 {
+        svg {
+            height: 30px;
+            width: 30px;
+            display: block;
+            float: left;
+            margin-top: 3px;
+            margin-right: 10px;
+        }
+    }
     
     .instagram {
+
         ul {
             display: flex;
             list-style: none;
