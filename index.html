@@ -41,7 +41,25 @@ title: Home
 			{% endfor %}
 		{% endif %}
 	</div>
-
+	<div class="instagram">
+		<h1 class="section-border">
+			<a href="https://instagram.com/dylan_george_field">Instagram</a>
+		</h1>
+			<ul>
+			</ul>
+			<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+			<script>
+				console.log('hei');
+				$.getJSON('https://www.instagram.com/dylan_george_field/?__a=1', function(data) {
+					var posts = data.graphql.user.edge_owner_to_timeline_media.edges;
+					console.log(posts);
+					for (var i = 0; i < posts.length - 7; i++) {
+						var thumb = posts[i].node.thumbnail_resources[2].src;
+						$('.instagram ul').append('<li><img src="' + thumb + '" /></li>');
+					}
+				});
+			</script>
+		</div>
 	<div class="blog">
 		<h1 class="section-border">
 			<a href="/blog">
