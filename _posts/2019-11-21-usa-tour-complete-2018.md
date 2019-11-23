@@ -1,6 +1,6 @@
 ---
 date: 2018-10-07
-title: 2018 USA Tour is complete!
+title: USA Tour is complete!
 categories:
   - Epic Rides
 featured_image: https://i.ibb.co/CbDkSbr/dylan-george-field-dr650-los-angeles.jpg
