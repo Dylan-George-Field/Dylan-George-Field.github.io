@@ -27,5 +27,6 @@ recipe:
     4. Transfer the batter to the prepared pan and bake until a toothpick inserted in the center comes out clean, 65 to 75 minutes. Cool the cake in the pan for 30 minutes, then turn it out onto a wire rack to cool completely.
     5. In a small bowl, whisk together the confectioners’ sugar and 1 of the remaining tablespoons of lemon juice until smooth, adding the remaining lemon juice as necessary to create a thick, but pourable glaze.
 ---
-After 89 days on the road the adventure came to an end. I travelled 35,000km and saw as much of North America as I could.
-Majority of my nights were spent camping, some days with friends and 10 nights in cheap hotels. The USA is as naturally diverse as its people. Thanks for having me.
+I travelled 35,000km over 89-days to see as much of North America as I could.
+Most of my nights were spent camping, 10 nights in cheap hotels and some with friends. 
+The USA is a naturally diverse place. The people are incredible. Thanks for having me.
