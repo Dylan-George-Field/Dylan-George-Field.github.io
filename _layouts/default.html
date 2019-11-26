@@ -41,7 +41,14 @@
 		<footer>
 			<div class="container">
 				<hr>
-				&copy; {{ site.title }} {{ site.time | date: "%Y" }}. All rights reserved 🛵
+				<p>&copy; {{ site.title }} {{ site.time | date: "%Y" }}. All rights reserved 🛵</p>
+				<div class="instagram">
+					<a target="_blank" href="https://instagram.com/{{ site.data.sidebar.instagram }}">
+						{% include social-icon.html icon="Instagram" %}
+						<p>Follow me on Instagram</p>
+						</a>
+					</p>
+				</div>
 			</div>
 		</footer>
 	</body>
