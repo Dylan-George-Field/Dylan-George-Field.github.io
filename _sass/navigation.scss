@@ -7,6 +7,10 @@ nav {
 	background: rgba(255, 255, 255, .9);
 	z-index: 999;
 
+	@media #{$mobile} {
+		position: relative;
+	}
+
 	a {
 		display: inline-block;
 		text-decoration: none;

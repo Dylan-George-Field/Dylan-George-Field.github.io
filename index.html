@@ -3,6 +3,11 @@ title: Home
 ---
 <div class="home">
 	<div class="feature section">
+			<h1 class="section-border">
+				<a href="/episodes">
+					{% include social-icon.html icon="Feature" %} Feature
+				</a>
+			</h1>
 		<section class="posts">
 			{% for post in site.categories.Feature %}
 				<article class="post">
