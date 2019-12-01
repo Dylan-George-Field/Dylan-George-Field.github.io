@@ -28,5 +28,5 @@ recipe:
     5. In a small bowl, whisk together the confectioners’ sugar and 1 of the remaining tablespoons of lemon juice until smooth, adding the remaining lemon juice as necessary to create a thick, but pourable glaze.
 ---
 I travelled 35,000km over 89-days to see as much of North America as I could.
-Most of my nights were spent camping, 10 nights in cheap hotels and some with friends. 
-The USA is a naturally diverse place. The people are incredible. Thanks for having me.
+Most of my nights were spent camping, 10 nights in cheap hotels and a few with friends. 
+The USA is a naturally diverse place. The people are incredible and I enjoyed every minute of it.
