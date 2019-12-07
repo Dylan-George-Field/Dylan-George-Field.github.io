@@ -29,7 +29,7 @@ Preparation has begun for the epic 50,000km journey. I'll depart in April, 2020.
 <h2>Cost</h2>
 <p>Full running costs are <a href="https://docs.google.com/spreadsheets/d/1Gi_bsTFOjHFGjzV19YF2wN_s0rQwaFuqiLDju3hEunc/edit?usp=sharing" target="_blank">free to view here</a> or use the embedded 
 spreadsheet below to help estimate the cost of your trip. You won't need everything I do!</p>
-<iframe width="100%" height="300px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSF9VQwrhBzGZn9scMsQoOZObTYT6P40qE-WKCWEZq7k6aLIc3z9bg_-FTTmr8tKET8nU7jg7lTQvFe/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe width="100%" height="300px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSF9VQwrhBzGZn9scMsQoOZObTYT6P40qE-WKCWEZq7k6aLIc3z9bg_-FTTmr8tKET8nU7jg7lTQvFe/pubhtml?gid=74147185&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 <h2>Instagram</h2>
 <p>Don't forget to <a href="https://instagram.com/dylan_george_field" target="_blank">follow me on Instagram</a> 
