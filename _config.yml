@@ -10,10 +10,10 @@ disqus_shortname: adventure-georgefield
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: A site for Dylan George Field's adventure riding stories, tips and diaries.
+description: Ride along as I travel the world by motorbike. You'll find costs, routes, tips, stories and diaries to help your prepare your own journey 🛵
 author:
-  name:
-  email:
+  name: Dylan George Field
+  email: dylan.george.field@gmail.com
   twitter: # twitter username without the @ symbol
 social:
   name: Adventure - Dylan George Field
