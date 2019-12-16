@@ -30,3 +30,11 @@ recipe:
 I travelled 35,000km over 89-days to see as much of North America as I could.
 Most of my nights were spent camping, 10 nights in cheap hotels and a few with friends. 
 The USA is a naturally diverse place. The people are incredible and I enjoyed every minute of it.
+
+I organised the DR650 through 'the famous' James Tucker. He knows the DMV and he purchased and
+registered the bike under my name. You only need a passport number to register a vehicle in California. He organised insurance and did mechanical modifications to the bike. I simply flew to Los Angeles, got to his house and away I went.
+
+I got an unlimited AT&T sim card (works in Canada) and Google Maps my way around. I used 
+https://freecampsites.net/ to find places to stay for free for 70 of the 90-days.
+
+I sold my the motorbike privately in Los Angeles.
