@@ -5,7 +5,7 @@ image_view: true
 <h1>Blog</h1>
 
 {% if page.image_view %}
-	{% for category in site.categories %}
+	{% for category in site.categories reversed %}
 		<h2>{{ category[0] }}</h2>
 		<div class="recipes">
 			{% for recipe in category[1] %}
