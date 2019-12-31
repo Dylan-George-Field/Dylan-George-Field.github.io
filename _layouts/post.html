@@ -4,12 +4,26 @@ layout: default
 <article class="post">
 	{% include post-heading.html post=page post_page=true %}
 	<div class="image">
-		<img src="{{ page.featured_image }}" alt="{{ page.title }}">
+		{% if page.map %}
+			{{ page.map_embedded }}
+		{% else %}
+			<img src="{{ page.featured_image }}" alt="{{ page.title }}">
+		{% endif %}
 	</div>
 
 	<div class="recipe-body">
 		{{ content }}
 	</div>
+	<h2>Read More</h2>
+	<div class="recipes">
+		<div class="recipe" style="background-image: url('{{page.previous.featured_image}}')">
+			<a href="{{ page.previous.url}}"><span>{{page.previous.title}}</span></a>
+		</div>
+		<div class="recipe" style="background-image: url('{{page.next.featured_image}}')">
+			<a href="{{ page.next.url}}"><span>{{page.next.title}}</span></a>
+		</div>
+	</div>
+
 	{% if include.post.show_stats %}
 		<ul id="recipe" class="recipe-overview">
 			<li title="Servings">{% include recipe-icon.html icon="quantity" %}<span>{{ page.recipe.servings }}</span></li>
