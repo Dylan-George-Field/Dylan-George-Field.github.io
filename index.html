@@ -13,7 +13,7 @@ title: Home
 				<article class="post">
 					{% include post-heading.html post=post %}
 					<div class="image">
-						<img src="{{ post.featured_image }}" alt="{{ post.title }}">
+						<img src="{{ post.feature_image }}" alt="{{ post.feature_image_title }}">
 					</div>
 
 					{{ post.excerpt }}
@@ -87,7 +87,7 @@ title: Home
 					<article class="post">
 						{% include post-heading.html post=post %}
 						<div class="image">
-							<img src="{{ post.featured_image }}" alt="{{ post.feature_image_title }}">
+							<img src="{{ post.feature_image }}" alt="{{ post.feature_image_title }}">
 						</div>
 
 						{{ post.excerpt }}

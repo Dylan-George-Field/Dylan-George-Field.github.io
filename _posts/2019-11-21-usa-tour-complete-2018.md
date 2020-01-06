@@ -3,7 +3,9 @@ date: 2018-10-07
 title: USA Tour Complete!
 categories:
   - Epic Rides
-featured_image: https://i.ibb.co/CbDkSbr/dylan-george-field-dr650-los-angeles.jpg
+feature_image: https://i.ibb.co/CbDkSbr/dylan-george-field-dr650-los-angeles.jpg
+feature_image_title: Dylan George Field's fully loaded Suzuki DR650 adventure bike parked in
+front of the San Gabriel mountains near Los Angeles, California, USA
 ---
 I travelled 35,000km over 89-days to see as much of North America as I could.
 Most nights I camped, 10 in cheap hotels and a few with friends or strangers. 
