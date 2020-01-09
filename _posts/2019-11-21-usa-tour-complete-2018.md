@@ -1,5 +1,5 @@
 ---
-date: 2018-10-07
+date: 2018-11-03
 title: USA Tour Complete!
 categories:
   - Epic Rides
