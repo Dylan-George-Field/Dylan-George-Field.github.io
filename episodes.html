@@ -1,7 +1,27 @@
 ---
 title: About
 ---
-<div class="editable">
+<div class="episodes editable">
 	<h1>Episodes</h1>
-	<p>Coming Soon.. 🤩</p>
+	<div class="youtube-list">
+		<ul></ul>
+	</div>
 </div>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script>
+	var youtubeUrl = "https://www.youtube.com/watch?v=";
+	var url = "https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=50&playlistId=PLWyO79lQWq17Jn9b2PiP-fR_Zy4Lwfguz&key=AIzaSyBKqwi28a2srX8ESdJ75O9LIhj3xrGnyQU";
+	$.getJSON(url, function(data) {
+		console.log(data);
+		data.items.forEach(video => {
+			console.log(video.snippet.resourceId.videoId);
+			$('.youtube-list ul').append(
+				'<li><a href="'+ youtubeUrl + video.snippet.resourceId.videoId +'" target="_blank">'
+				+ '<img src="' + video.snippet.thumbnails.standard.url + '" '
+				+ ' alt="'+ video.snippet.title + '" />'
+				+ '<p>'+ video.snippet.title + '</p>'
+				+ '</a></li>'
+			);
+		});
+	});
+</script>
