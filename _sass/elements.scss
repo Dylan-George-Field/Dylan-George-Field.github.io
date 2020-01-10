@@ -55,3 +55,28 @@ a {
 	text-decoration: none;
 	color: #007eff;
 }
+
+.section-border {
+	border-bottom: 1px solid black;
+	padding-bottom: 10px;
+	margin-bottom: 30px;
+	a {
+		color: #000;
+		text-decoration: none;
+
+		&:hover {
+			text-decoration: underline;
+		}
+	}
+}
+
+h1 {
+	svg {
+		height: 30px;
+		width: 30px;
+		display: block;
+		float: left;
+		margin-top: 3px;
+		margin-right: 10px;
+	}
+}
