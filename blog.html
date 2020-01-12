@@ -8,11 +8,20 @@ image_view: true
 	{% for category in site.categories reversed %}
 		<h2>{{ category[0] }}</h2>
 		<div class="recipes">
-			{% for recipe in category[1] %}
+			{% for post in category[1] %}
 				<div class="recipe">
-					<img src="{{ recipe.feature_image }}" alt="{{ recipe.feature_image_title}}" />
-					<a  href="{{ site.baseurl }}{{ recipe.url }}"
-					style="margin-top:-210px"><span>{{ recipe.title }}</span></a>
+					<img src="{{ post.feature_image }}" alt="{{ post.feature_image_title}}" />
+					<a  href="{{ site.baseurl }}{{ post.url }}" style="margin-top:-210px">
+						{% if post.stats %}
+							<span class="stats">
+								<ul>
+									<li>{{post.where}}</li>
+									<li>{{post.distance}}</li>
+								</ul>
+							</span>
+						{% endif %}
+						<span>{{ post.title }}</span>
+					</a>
 				</div>
 			{% endfor %}
 		</div>
