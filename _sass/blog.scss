@@ -7,9 +7,16 @@
 			text-decoration: underline;
 		}
 	}
-	time {
-		padding: 0 0 20px 0;
-		display: block;
+
+	.post-heading {
+		h2 {
+			margin-top: 5px;
+			margin-bottom: 0
+		}
+		time {
+			padding: 0 0 20px 0;
+			display: block;
+		}
 	}
 
 	.recipe-overview {
@@ -170,6 +177,7 @@
 	text-align: center;
 	margin: 50px 0 0 0;
 }
+
 
 .take-me {
 	float: right;

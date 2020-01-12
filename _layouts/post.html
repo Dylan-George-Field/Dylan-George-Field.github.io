@@ -4,12 +4,7 @@ layout: default
 <article class="post">
 	{% include post-heading.html post=page post_page=true %}
 	<div class="image">
-		{% if page.map %}
-			<img src="{{ page.feature_image }}" alt="{{ page.feature_image_title }}">
-			{{page.feature_image_title}}
-		{% else %}
-			<img src="{{ page.feature_image }}" alt="{{ page.title }}">
-		{% endif %}
+		<img src="{{ page.feature_image }}" alt="{{ page.feature_image_title }}">
 	</div>
 
 	<div class="recipe-body">
