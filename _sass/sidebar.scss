@@ -62,13 +62,21 @@
 	}
 
 	.sponsors {
-
-		.bboffroad {
+		img {
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+		}
+		.andystrapz {
+			margin-left: 10px;
 
 			img {
-				display: block;
-				margin-left: auto;
-				margin-right: auto;
+				height: 90px;
+				width: 160px;
+			}
+		}
+		.bboffroad {
+			img {
 				width: 85%;	
 			}
 		}
