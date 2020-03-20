@@ -3,10 +3,13 @@ date: 22-11-2019
 title: Riding Melbourne > London in 2020
 categories:
   - Feature
-feature_image: https://i.ibb.co/pXCGrqj/dylan-george-field-melbourne-to-london-feature.jpg
+feature_image: /images/blog/cancelled-due-to-coronavirus-dylan-george-field-feature.jpg
 feature_image_title: A map with red string from melbourne to london covers Dylan George Field's bedroom wall
 show_stats: false
 ---
+Update: 3/3/2020 I made the uncertain and unfortunate call to cancelled the trip after 6 months of dedicated planning and hard work. This is based on a projected spread of the virus and reports of border closures with Iran and China. I expect the virus to become pandemic with further uncertainty and closures.
+Catching this early means I can stay at work and keep my house. Thank you all for your support.
+
 Preparation has begun for the epic 50,000km journey. I'll depart in April, 2020. The trip will take approximately 7 months. I'll go through Asia, Middle-East and Europe. It will be documented on Instagram & YouTube. Please <a href="/contact">contact me</a> for details.
 
 <h2>Cost</h2>
