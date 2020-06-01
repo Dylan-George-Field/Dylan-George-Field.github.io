@@ -3,7 +3,7 @@ date: 26-5-2020
 title: The 2017 Honda CRF 250 Rally
 categories:
   - Feature
-feature_image: /images/blog/honda-crf-250-rally/honda-crf250-rally-complete.jpg
+feature_image: /images/blog/honda-crf-250-rally/honda-crf250-rally-complete-cover.jpg
 feature_image_title: The Honda CRF 250 Rally that was to take me 50,000km from Melbourne to London
 show_stats: false
 ---
@@ -89,4 +89,12 @@ These came with the bike. A small tank bag that doesn't impede the steering plus
 <h3>Upper Pannier Pockets - France</h3>
 <p>
 These are cheap 'bicycle frame bags' I got from Decathlon for $15 each. I sewed some compression straps to them to carry some tools and my toiletries. Located on the upper front fairing.
+</p>
+<h3>Lowered Seat - Myself</h3>
+<p>
+The seat is lowered by about 1.5 inches. This was done myself using a bread knife, some sandpaper and a staple gun. Remove the seat, take out the staples and cut out the foam. Re-attach the seat and replace the staples.
+</p>
+<h3>Adjust Rear Spring Preload - Myself</h3>
+<p>
+The stock bike comes with a saggy bottom. You can tighten the pre-load of the rear. This is great for the heavy weight over the rear end and will stiffen up the front as well. All you need to do is remove the side fairing then use a hole punch and hammer to move the circular clips above the shock.
 </p>
