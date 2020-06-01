@@ -98,3 +98,7 @@ The seat is lowered by about 1.5 inches. This was done myself using a bread knif
 <p>
 The stock bike comes with a saggy bottom. You can tighten the pre-load of the rear. This is great for the heavy weight over the rear end and will stiffen up the front as well. All you need to do is remove the side fairing then use a hole punch and hammer to move the circular clips above the shock.
 </p>
+<h3>Glasses Case - China</h3>
+<p>
+A small glasses case is connected to the handlebars. I wear glasses and when I take off my helmet I always forget where I put them. I ride off and never find them again.
+</p>
