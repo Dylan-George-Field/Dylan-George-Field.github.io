@@ -8,7 +8,7 @@ feature_image_title: The Honda CRF 250 Rally that was to take me 50,000km from M
 show_stats: false
 ---
 <p>
-The bike was chosen for it's lightweight, high reliability, modern platform and low-cost. It weighs 157kg wet from factory, is based on the tried and tested 250L, with the addition of a larger fuel tank, windshield, and LED headlights for a touch under $5,000 AUD.
+Chosen for its low-cost, relative light-weight and modern platform, this 157kg dual purpose bike is perfect for going around the world. I got it for under $5,000 AUD and comes with additional larger fuel tank, windshield, and LED headlights over the tried and tested Honda 250L.
 </p>
 <p>
 You can read more about why I chose the Honda CRF250 Rally here.
