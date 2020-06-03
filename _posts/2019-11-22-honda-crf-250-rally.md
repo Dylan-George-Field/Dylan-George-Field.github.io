@@ -13,7 +13,27 @@ Chosen for its low-cost, relative light-weight and modern platform, this 157kg d
 <p>
 You can read more about why I chose the Honda CRF250 Rally here.
 </p>
-
+<h2>Quick List</h2>
+<ul>
+  <li>Barkbusters VPS</li>
+  <li>Lightforce 6" Lightbar</li>
+  <li>B&B Offroad Engineering Bash Plate</li>
+  <li>Andy Strapz Avduro II Soft Panniers</li>
+  <li>Tusk Pannier Rack</li>
+  <li>Cameltank 6 Litre External Fuel Tank</li>
+  <li>Quad Lock Phone Mount</li>
+  <li>Pro Taper Pillow Top Handgrips</li>
+  <li>Generic Heated Handgrip Elements</li>
+  <li>Unifilter Reusable Foam Air Filter</li>
+  <li>Motopower USB Charger (x3)</li>
+  <li>SSB Lithium Ion Battery LH7L-BS</li>
+  <li>Osprey Transporter 40L Top Bag</li>
+  <li>Wolfman Tankbag/Pannier Pockets</li>
+  <li>Decathlon Bike Frame Bags (x2) Sitched with Compression Straps</li>
+  <li>Lowered Seat by 1.5"</li>
+  <li>Glasses Case tied to Handlebars</li>
+  <li>Increased Pre-Load on Rear Spring</li>
+</ul>
 <h2>Modifications</h2>
 The bike is designed as a dual sport/commuter and requires some modification to become a long-range adventure bike. A huge thank you to Andy Strapz, Barkbusters, B&B Offroad Engineering and Lightforce for kindly supporting me and the adventure rider community. It makes me proud to be an aussie! 
 
@@ -94,11 +114,11 @@ These are cheap 'bicycle frame bags' I got from Decathlon for $15 each. I sewed 
 <p>
 The seat is lowered by about 1.5 inches. This was done myself using a bread knife, some sandpaper and a staple gun. Remove the seat, take out the staples and cut out the foam. Re-attach the seat and replace the staples.
 </p>
-<h3>Adjust Rear Spring Preload - Myself</h3>
-<p>
-The stock bike comes with a saggy bottom. You can tighten the pre-load of the rear. This is great for the heavy weight over the rear end and will stiffen up the front as well. All you need to do is remove the side fairing then use a hole punch and hammer to move the circular clips above the shock.
-</p>
 <h3>Glasses Case - China</h3>
 <p>
 A small glasses case is connected to the handlebars. I wear glasses and when I take off my helmet I always forget where I put them. I ride off and never find them again.
+</p>
+<h3>Adjust Rear Spring Preload - Myself</h3>
+<p>
+The stock bike comes with a saggy bottom. You can tighten the pre-load of the rear. This is great for the heavy weight over the rear end and will stiffen up the front as well. All you need to do is remove the side fairing then use a hole punch and hammer to move the circular clips above the shock.
 </p>
