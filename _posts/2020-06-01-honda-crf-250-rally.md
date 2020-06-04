@@ -1,5 +1,5 @@
 ---
-date: 26-5-2020
+date: 01-06-2020
 title: The 2017 Honda CRF 250 Rally
 categories:
   - Feature
@@ -29,7 +29,7 @@ You can read more about why I chose the Honda CRF250 Rally <a href="/bikes/2020/
   <li>Unifilter Reusable Foam Air Filter</li>
   <li>Motopower USB Charger (x3)</li>
   <li>SSB Lithium Ion Battery LH7L-BS</li>
-  <li>Osprey Transporter 40L Top Bag</li>
+  <li><a href="{% post_url 2020-06-03-osprey-transporter-40l-top-bag %}">Osprey Transporter 40L Top Bag</a></li>
   <li>Wolfman Tankbag/Pannier Pockets</li>
   <li>Decathlon Bike Frame Bags (x2) Sitched with Compression Straps</li>
   <li>Lowered Seat by 1.5"</li>
