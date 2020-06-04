@@ -11,9 +11,11 @@ show_stats: false
 Chosen for its low-cost, relative light-weight and modern platform, this 157kg dual purpose bike is perfect for going around the world. I got it for under $5,000 AUD and comes with additional larger fuel tank, windshield, and LED headlights over the tried and tested Honda 250L.
 </p>
 <p>
-You can read more about why I chose the Honda CRF250 Rally here.
+You can read more about why I chose the Honda CRF250 Rally <a href="/bikes/2020/05/26/why-the-250-rally/">here</a>.
 </p>
+
 <h2>Quick List</h2>
+
 <ul>
   <li>Barkbusters VPS</li>
   <li>Lightforce 6" Lightbar</li>
@@ -34,6 +36,7 @@ You can read more about why I chose the Honda CRF250 Rally here.
   <li>Glasses Case tied to Handlebars</li>
   <li>Increased Pre-Load on Rear Spring</li>
 </ul>
+
 <h2>Modifications</h2>
 The bike is designed as a dual sport/commuter and requires some modification to become a long-range adventure bike. A huge thank you to Andy Strapz, Barkbusters, B&B Offroad Engineering and Lightforce for kindly supporting me and the adventure rider community. It makes me proud to be an aussie! 
 
