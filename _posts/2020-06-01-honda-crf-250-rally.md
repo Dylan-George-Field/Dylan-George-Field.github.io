@@ -1,6 +1,6 @@
 ---
 date: 01-06-2020
-title: The 2017 Honda CRF 250 Rally
+title: The 2017 Honda CRF 250 Rally - 'Sheepskin'
 categories:
   - Feature
 feature_image: /images/blog/honda-crf-250-rally/honda-crf250-rally-complete-cover.jpg
@@ -17,7 +17,7 @@ You can read more about why I chose the Honda CRF250 Rally <a href="/bikes/2020/
 <h2>Quick List</h2>
 
 <ul>
-  <li>Barkbusters VPS</li>
+  <li><a href="{% post_url 2020-06-05-barkbusters-vps %}">Barkbusters VPS</a></li>
   <li>Lightforce 6" Lightbar</li>
   <li>B&B Offroad Engineering Bash Plate</li>
   <li>Andy Strapz Avduro II Soft Panniers</li>
