@@ -17,19 +17,31 @@ You can read more about why I chose the Honda CRF250 Rally <a href="/bikes/2020/
 <h2>Quick List</h2>
 
 <ul>
-  <li><a href="{% post_url 2020-06-05-barkbusters-vps %}">Barkbusters VPS</a></li>
+  <li>
+    <a href="{% post_url 2020-06-05-barkbusters-vps %}">
+      Barkbusters VPS
+    </a>
+  </li>
   <li>Lightforce 6" Lightbar</li>
   <li>B&B Offroad Engineering Bash Plate</li>
   <li>Andy Strapz Avduro II Soft Panniers</li>
   <li>Tusk Pannier Rack</li>
-  <li>Cameltank 6 Litre External Fuel Tank</li>
+  <li>
+    <a href="{% post_url 2020-06-16-camel-tank %}">
+      Camel Tank 6 Litre External Fuel Tank
+    </a>
+  </li>
   <li>Quad Lock Phone Mount</li>
   <li>Pro Taper Pillow Top Handgrips</li>
   <li>Generic Heated Handgrip Elements</li>
   <li>Unifilter Reusable Foam Air Filter</li>
   <li>Motopower USB Charger (x3)</li>
   <li>SSB Lithium Ion Battery LH7L-BS</li>
-  <li><a href="{% post_url 2020-06-03-osprey-transporter-40l-top-bag %}">Osprey Transporter 40L Top Bag</a></li>
+  <li>
+    <a href="{% post_url 2020-06-03-osprey-transporter %}">
+      Osprey Transporter 40L Top Bag
+    </a>
+  </li>
   <li>Wolfman Tankbag/Pannier Pockets</li>
   <li>Decathlon Bike Frame Bags (x2) Sitched with Compression Straps</li>
   <li>Lowered Seat by 1.5"</li>
