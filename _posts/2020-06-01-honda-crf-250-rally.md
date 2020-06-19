@@ -22,7 +22,11 @@ You can read more about why I chose the Honda CRF250 Rally <a href="/bikes/2020/
       Barkbusters VPS
     </a>
   </li>
-  <li>Lightforce 6" Lightbar</li>
+  <li>
+    <a href="{% post_url 2020-06-19-lightforce-lightbar %}">
+      Lightforce 6" Lightbar
+    </a>
+  </li>
   <li>B&B Offroad Engineering Bash Plate</li>
   <li>Andy Strapz Avduro II Soft Panniers</li>
   <li>Tusk Pannier Rack</li>
