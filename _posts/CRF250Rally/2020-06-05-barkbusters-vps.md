@@ -13,6 +13,7 @@ show_stats: false
 <p>
   The standard handguards are shit so I threw them in the bin.
 </p>
+
 <p>
   You need a strong two-point handguard. One with a strong piece of metal secured tightly from the middle of the handlebar to the bar-end. You need these for a few reasons:
 </p>

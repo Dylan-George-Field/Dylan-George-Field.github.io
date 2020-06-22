@@ -14,6 +14,7 @@ permalink: /camel-tank/
 <p>
   The standard CRF250 Rally comes with a 10.1 litre tank. It's good for around 300km @ 3l/100km. It isn't enough for long-haul adventure riding plus, no one likes refueling. 
 </p>
+
 <p>
   The Camel Tank adds an extra 100km range to the bike. The system taps into the main tank via the vent hose. It sucks in fuel from the Camel Tank to your main tank as you're riding. This clever vacuum technique can be applied to a rotopax or any sealed external fuel tank. You only need a bit of tube!
 </p>

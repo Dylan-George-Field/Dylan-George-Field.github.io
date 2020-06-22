@@ -12,8 +12,9 @@ permalink: /lightforce-6-inch-lightbar/
 <h3>Cost - $175.00 AUD</h3>
 <h4><a href="https://www.lightforce.com/">www.lightforce.com</a></h4>
 <p>
-  This lifesaving upgrade adds over 50% more light to the CRF250 Rally's arsenal. The standard LED headlamps are great for the street but not for extended remote riding in complete darkness.
+  A lifesaving upgrade that adds over 50% more light to the CRF250 Rally's arsenal. The standard LED headlamps are great for the street but not for extended remote riding in complete darkness.
 </p>
+
 <p>
   The lightbar throws up a perfect 1 lux beam @ 250 meters to reveal hidden dangers on the road or trail like roaming wildlife, fallen rocks, deep pot holes or fallen trees. Anything that can ruin your adventure or worse, put you in hospital.
 </p>
@@ -49,3 +50,4 @@ permalink: /lightforce-6-inch-lightbar/
 </p>
 <img src="\images\blog\lightforce-lightbar\lightforce-6-inch-lightbar-on-off-switch.jpg" alt="On/Off switch for auxiliary 6 inch light bar on left hand fairing of the Honda CRF250 Rally" />
 <img src="\images\blog\lightforce-lightbar\lightforce-6-inch-lightbar-on-crf250-rally-2.jpg" alt="A reverse angle shot of the lightforce 6 inch lightbar on the Honda CRF250 Rally" />
+<img src="\images\blog\lightforce-lightbar\lightforce-6-inch-single-row-led-bar-box.jpg" alt="The Lightforce 6 inch single LED bar box" />
