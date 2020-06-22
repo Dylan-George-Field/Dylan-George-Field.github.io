@@ -6,6 +6,7 @@ categories:
 feature_image: \images\blog\barkbusters-vps\barkbusters-vps-closeup.jpg
 feature_image_title: The Barkbusters VPS with wind deflectors attached
 show_stats: false
+permalink: /gear/crf-250-rally/barkbusters-vps/
 ---
 <h2>Barkbusters VPS - Australia</h2>
 <h3>Cost - $100 AUD</h3>
