@@ -1,5 +1,5 @@
 ---
-date: 16-6-2020
+date: 22-06-2020
 title: Tusk Pannier Rack
 categories:
   - Gear

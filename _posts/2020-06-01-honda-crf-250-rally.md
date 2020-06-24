@@ -29,7 +29,11 @@ You can read more about why I chose the Honda CRF250 Rally <a href="/bikes/2020/
   </li>
   <li>B&B Offroad Engineering Bash Plate</li>
   <li>Andy Strapz Avduro II Soft Panniers</li>
-  <li>Tusk Pannier Rack</li>
+  <li>
+    <a href="{% post_url 2020-06-22-tusk-pannier-rack %}">
+      Tusk Pannier Rack
+    </a> 
+  </li>
   <li>
     <a href="{% post_url 2020-06-16-camel-tank %}">
       Camel Tank 6 Litre External Fuel Tank
