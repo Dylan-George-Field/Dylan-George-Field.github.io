@@ -48,8 +48,9 @@ show_stats: false
   You could use an inner bag, take it all out and leave your panniers on. It's a great idea if you're on the cheap. Me, I'd rather spend the extra bucks and take it all off in one. Those pannier bags are expensive and a quick release will only set you back a couple of hundred bucks.
 </p>
 <p>
-  A small price to pay that could save your hours and plenty of frustration.
+  A small price to pay that could save your hours and plenty of frustration. But don't take my word for it 😉
 </p>
+<img src="\images\blog\quick-release\grace-mcdonald-regrets-no-quick-release.PNG" alt="Grace McDonald regrets not using a quick release">
 
 <h3>Check it out yourself</h3>
 <p>
