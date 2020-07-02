@@ -1,6 +1,6 @@
 ---
 date: 26-5-2020
-title: Do I need a quick release panniers?
+title: Do I need quick release panniers?
 categories:
   - Gear
 feature_image: \images\blog\quick-release\tusk-quick-release-with-andy-strapz-avduro-panniers.jpg
@@ -8,7 +8,10 @@ feature_image_title: Putting on Andy Strapz Avduro panniers using the Tusk quick
 show_stats: false
 ---
 <p>
-  Yes.
+  Yes. Absolutely!
+</p>
+<p>
+  If you plan to on ride anywhere longer than a weekend and don't know exactly where you'll stay. You need it. I guarantee you'll stay in a house or accommodation at some point or just want to ditch the weight and go up a single-track.
 </p>
 
 <p>
@@ -38,9 +41,14 @@ show_stats: false
 <p>
   The same applies to rain. Do you really want to awkwardly clamber out of your tent, put your boots to get something out of them in the rain? No way!
 </p>
-
 <p>
-  You can use an inner bag. It's a great idea if you're on the cheap. Me, I'd rather spend the extra bucks and take it all in one. Those pannier bags are expensive enough!
+  Then once your a happy camper you can ditch the weight and go exploring!
+</p>
+<p>
+  You could use an inner bag, take it all out and leave your panniers on. It's a great idea if you're on the cheap. Me, I'd rather spend the extra bucks and take it all off in one. Those pannier bags are expensive and a quick release will only set you back a couple of hundred bucks.
+</p>
+<p>
+  A small price to pay that could save your hours and plenty of frustration.
 </p>
 
 <h3>Check it out yourself</h3>
