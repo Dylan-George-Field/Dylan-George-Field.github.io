@@ -3,8 +3,8 @@ date: 26-5-2020
 title: Do I need a quick release panniers?
 categories:
   - Gear
-feature_image: \images\blog\why-honda-crf-250-rally\callum-selling-dylan-the-250-rally.jpg
-feature_image_title: Callum and I who I bought the CRF 250 Rally off
+feature_image: \images\blog\quick-release\tusk-quick-release-with-andy-strapz-avduro-panniers.jpg
+feature_image_title: Putting on Andy Strapz Avduro panniers using the Tusk quick release
 show_stats: false
 ---
 <p>
@@ -48,6 +48,6 @@ show_stats: false
   It takes 1 minute even for a numpty like me.
 </p>
 <p>
-  This is a Tusk pannier rack with Andy Strapz Avduro pannier bags and an Osprey Transporter 40l top bag. Notice the backpack straps leave your hands free for professional style removal. Guaranteed to impress the birds at the campsite.
+  This is a Tusk pannier rack with Andy Strapz Avduro pannier bags and an Osprey Transporter 40l top bag. Note the backpack straps leave your hands free for professional style removal.
 </p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CmEznPTxzEE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/CmEznPTxzEE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
