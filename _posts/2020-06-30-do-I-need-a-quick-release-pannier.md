@@ -48,6 +48,6 @@ show_stats: false
   It takes 1 minute even for a numpty like me.
 </p>
 <p>
-  This is a Tusk pannier rack with Andy Strapz Avduro pannier bags and an Osprey Transporter 40l top bag. Note the backpack straps leave your hands free for professional style removal.
+  This is a Tusk pannier rack with <a href="{% post_url 2020-06-22-tusk-pannier-rack %}">Andy Strapz Avduro pannier bags</a> and an <a href="{% post_url 2020-06-03-osprey-transporter %}">Osprey Transporter 40l top bag</a>. Note the backpack straps leave your hands free for professional style removal.
 </p>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/CmEznPTxzEE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
