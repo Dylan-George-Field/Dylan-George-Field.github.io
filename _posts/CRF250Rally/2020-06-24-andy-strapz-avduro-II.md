@@ -18,7 +18,7 @@ permalink: /gear/crf-250-rally/andy-strapz-avduro-II-panniers/
 </p>
 
 <p>
-  Each bag has a 20L capacity. They come with two large pockets that hold a 2L. These are great for quick access items like water bottles or things you don't want inside the bag like oil or fuel. It's the perfect size for any solo-travel adventure.
+  Each bag has a 20L capacity. They come with two large pockets that hold a 2L. These are great for quick access items like water bottles or things you don't want inside the bag like oil or fuel. It's the perfect size for any solo-travel adventure and only weigh 2kgs.
 </p>
 
 <p>
