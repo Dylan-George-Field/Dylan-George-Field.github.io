@@ -11,7 +11,6 @@ permalink: /gear/crf-250-rally/osprey-transporter-40l/
 <h2>Osprey Transporter 40L (Top Bag) - USA</h2>
 <h3>Cost - $100 AUD</h3>
 <h4><a href="https://www.osprey.com/">www.osprey.com</a></h4>
-
 <p>
   This is a superb bag. It's not a drybag and you don't need one. Unless you plan on swimming down the river with your motorbike. Which I don't.
 </p>

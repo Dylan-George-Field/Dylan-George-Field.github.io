@@ -13,7 +13,6 @@ permalink: /gear/crf-250-rally/bb-offroad-bashplate/
 <h4>
   <a href="https://bboffroad.com.au/">bboffroad.com.au</a>
 </h4>
-
 <p>
   This rock solid 4mm aluminum solid bashplate replaces the flimsy plastic one that comes standard on the CRF250 Rally. The fit and finish is perfect. It slots into the fairings seamlessly, the bolts line up and its a cinch to install. There's even a careful layer of foam where the plate touches the frame.
 </p>

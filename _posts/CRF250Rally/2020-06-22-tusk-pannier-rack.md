@@ -13,7 +13,6 @@ permalink: /gear/crf-250-rally/tusk-pannier-rack/
 <h4>
   <a href="https://www.rockymountainatvmc.com/">www.rockymountainatvmc.com</a>
 </h4>
-
 <p>
   You get a lot of value for money with the Tusk Pannier Rack for the CRF250 Rally. I'm not 100% sold. They are heavy, the fit and finish isn't perfect and you loose the passenger foot-pegs. But, they are cheap (if you live in the USA), have a great flat top plate and simple quick release system.
 </p>

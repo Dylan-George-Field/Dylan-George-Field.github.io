@@ -13,7 +13,6 @@ permalink: /gear/crf-250-rally/andy-strapz-avduro-II-panniers/
 <h4>
   <a href="https://www.andystrapz.com/">www.andystrapz.com</a>
 </h4>
-
 <p>
   Simple and tough, this Melbourne made roll-top design is made of a thick one piece canvas. The bottom has no seams where tears are most likely to occur. The absence of zippers makes the bag easy-to-access and big buckles for when you have motorbike gloves on.
 </p>

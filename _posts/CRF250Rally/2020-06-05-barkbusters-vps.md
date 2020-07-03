@@ -11,11 +11,9 @@ permalink: /gear/crf-250-rally/barkbusters-vps/
 <h2>Barkbusters VPS - Australia</h2>
 <h3>Cost - $100 AUD</h3>
 <h4><a href="https://barkbusters.net/">www.barkbusters.net</a></h4>
-
 <p>
   The standard handguards are shit so I threw them in the bin.
 </p>
-
 <p>
   You need a strong two-point handguard. One with a strong piece of metal secured tightly from the middle of the handlebar to the bar-end. You need these for a few reasons:
 </p>
