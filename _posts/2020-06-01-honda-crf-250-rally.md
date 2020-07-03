@@ -32,7 +32,9 @@ You can read more about why I chose the Honda CRF250 Rally <a href="/bikes/2020/
       B&B Offroad Engineering Bash Plate
     </a>
   </li>
-  <li>Andy Strapz Avduro II Soft Panniers</li>
+  <li>
+    <a href="{% post_url 2020-06-24-andy-strapz-avduro-II %}">
+    Andy Strapz Avduro II Soft Panniers</li>
   <li>
     <a href="{% post_url 2020-06-22-tusk-pannier-rack %}">
       Tusk Pannier Rack
