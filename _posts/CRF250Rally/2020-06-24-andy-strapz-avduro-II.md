@@ -3,10 +3,10 @@ date: 24-06-2020
 title: Andy Strapz Avduro II Soft Panniers
 categories:
   - Gear
-feature_image: \images\blog\bb-bashplate\bb-bashplate-mounted-honda-crf-250-rally.jpg
-feature_image_title: The B&B Bashplate mounted to the bottom of the Honda CRF 250 Rally
+feature_image: \images\blog\andy-strapz\me-holding-andy-strapz-avduro-II-panniers-delivery.jpg
+feature_image_title: Me with a fresh delivery of Andy Strapz Avduro panniers and some inner liners he threw in 👍
 show_stats: false
-permalink: /gear/crf-250-rally/bb-offroad-bashplate/
+permalink: /gear/crf-250-rally/andy-strapz-avduro-II-panniers/
 ---
 <h2>Andy Strapz Avduro II Soft Panniers - Australia</h2>
 <h3>Cost - $475 AUD</h3>
