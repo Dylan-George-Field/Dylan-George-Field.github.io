@@ -5,6 +5,7 @@ categories:
   - Gear
 feature_image: \images\blog\quick-release\tusk-quick-release-with-andy-strapz-avduro-panniers.jpg
 feature_image_title: Putting on Andy Strapz Avduro panniers using the Tusk quick release
+permalink: /gear/do-I-need-quick-release-panniers/
 show_stats: false
 ---
 <p>
@@ -41,26 +42,34 @@ show_stats: false
 <p>
   The same applies to rain. Do you really want to awkwardly clamber out of your tent, put your boots to get something out of them in the rain? No way!
 </p>
+
 <p>
   Then once your a happy camper you can ditch the weight and go exploring!
 </p>
+
 <p>
   You could use an inner bag, take it all out and leave your panniers on. It's a great idea if you're on the cheap. Me, I'd rather spend the extra bucks and take it all off in one. Those pannier bags are expensive and a quick release will only set you back a couple of hundred bucks.
 </p>
+
 <p>
   A small price to pay that could save your hours and plenty of frustration. 
 </p>
+
 <h3>Don't take my word for it 😉</h3>
 <p>
 <a href="https://www.facebook.com/groups/1386425211618022/?post_id=2413034888957044" target="_blank">A thread on quick release systems on Aussie Adventure Bike Riders Facebook</a>
 </p>
+
 <img src="\images\blog\quick-release\grace-mcdonald-regrets-no-quick-release.PNG" alt="Grace McDonald regrets not using a quick release">
 
 <h3>Check it out yourself</h3>
+
 <p>
   It takes 1 minute even for a numpty like me.
 </p>
+
 <p>
   This is a Tusk pannier rack with <a href="{% post_url 2020-06-22-tusk-pannier-rack %}">Andy Strapz Avduro pannier bags</a> and an <a href="{% post_url 2020-06-03-osprey-transporter %}">Osprey Transporter 40l top bag</a>. Note the backpack straps leave your hands free for professional style removal.
 </p>
+
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/CmEznPTxzEE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

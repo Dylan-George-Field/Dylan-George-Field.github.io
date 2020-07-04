@@ -34,7 +34,9 @@ You can read more about why I chose the Honda CRF250 Rally <a href="/bikes/2020/
   </li>
   <li>
     <a href="{% post_url 2020-06-24-andy-strapz-avduro-II %}">
-    Andy Strapz Avduro II Soft Panniers</li>
+      Andy Strapz Avduro II Soft Panniers
+    </a>
+  </li>
   <li>
     <a href="{% post_url 2020-06-22-tusk-pannier-rack %}">
       Tusk Pannier Rack
@@ -45,7 +47,11 @@ You can read more about why I chose the Honda CRF250 Rally <a href="/bikes/2020/
       Camel Tank 6 Litre External Fuel Tank
     </a>
   </li>
-  <li>Quad Lock Phone Mount</li>
+  <li>
+    <a href="{% post_url 2020-07-04-quad-lock %}">
+      Quad Lock Phone Mount
+    </a>
+  </li>
   <li>Pro Taper Pillow Top Handgrips</li>
   <li>Generic Heated Handgrip Elements</li>
   <li>Unifilter Reusable Foam Air Filter</li>
