@@ -1,6 +1,6 @@
 ---
 date: 16-6-2020
-title: Camel Tank - 6 Litre
+title: Camel Tank External 6 Litre Fuel Tank
 categories:
   - Gear
 feature_image: \images\blog\camel-tank\camel-tank-on-crf-250-rally.jpg
@@ -8,7 +8,7 @@ feature_image_title: The Camel Tank needs custom brackets for a Tusk pannier rac
 show_stats: false
 permalink: /gear/crf-250-rally/camel-tank-6-litre/
 ---
-<h2>Camel Tank 6 Litre - USA</h2>
+<h2>Camel Tank - USA</h2>
 <h3>Cost - $430 USD</h3>
 <h4><a href="https://camel-adv.com/">camel-adv.com</a></h4>
 <p>

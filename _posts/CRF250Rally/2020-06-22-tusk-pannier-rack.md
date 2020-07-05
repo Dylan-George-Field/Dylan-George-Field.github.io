@@ -8,7 +8,7 @@ feature_image_title: The Tusk pannier rack from the exhaust side. Note the passe
 show_stats: false
 permalink: /gear/crf-250-rally/tusk-pannier-rack/
 ---
-<h2>Tusk Pannier Rack - USA</h2>
+<h2>Tusk - USA</h2>
 <h3>Cost - $250 USD</h3>
 <h4>
   <a href="https://www.rockymountainatvmc.com/">www.rockymountainatvmc.com</a>

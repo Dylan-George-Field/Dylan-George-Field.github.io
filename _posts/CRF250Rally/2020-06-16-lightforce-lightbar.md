@@ -1,6 +1,6 @@
 ---
 date: 19-6-2020
-title: Lightforce 6" Lightbar
+title: Lightforce 6" LED Lightbar
 categories:
   - Gear
 feature_image: \images\blog\lightforce-lightbar\lightforce-6-inch-lightbar-on-crf250-rally.jpg
@@ -8,7 +8,7 @@ feature_image_title: It looks like an angry set of teeth 😬
 show_stats: false
 permalink: /gear/crf-250-rally/lightforce-6-inch-lightbar/
 ---
-<h2>Lightforce 6" Lightbar - Australia</h2>
+<h2>Lightforce - Australia</h2>
 <h3>Cost - $175.00 AUD</h3>
 <h4><a href="https://www.lightforce.com/">www.lightforce.com</a></h4>
 <p>

@@ -1,6 +1,6 @@
 ---
 date: 05-07-2020
-title: Pro Taper Grip
+title: Pro Taper Pillow Top Grips
 categories:
   - Gear
 feature_image: \images\blog\pro-taper\pro-taper-pillow-top-honda-crf250-rally.jpg

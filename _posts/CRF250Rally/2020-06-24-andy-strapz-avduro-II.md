@@ -8,7 +8,7 @@ feature_image_title: Me with a fresh delivery of Andy Strapz Avduro panniers and
 show_stats: false
 permalink: /gear/crf-250-rally/andy-strapz-avduro-II-panniers/
 ---
-<h2>Andy Strapz Avduro II Soft Panniers - Australia</h2>
+<h2>Andy Strapz - Australia</h2>
 <h3>Cost - $475 AUD</h3>
 <h4>
   <a href="https://www.andystrapz.com/">www.andystrapz.com</a>
