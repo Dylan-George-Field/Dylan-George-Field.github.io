@@ -6,7 +6,7 @@ categories:
 feature_image: /images/blog/osprey-transporter-40l/osprey-transporter-40l-top-bag.jpg
 feature_image_title: The Osprey Transporter 40l with Rok straps, bike lock and padlocked zipper
 show_stats: false
-permalink: /gear/crf-250-rally/osprey-transporter-40l/
+permalink: /gear/crf-250-rally/osprey-transporter-40l-top-bag/
 ---
 <h2>Osprey Transporter 40L (Top Bag) - USA</h2>
 <h3>Cost - $100 AUD</h3>
