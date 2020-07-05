@@ -27,7 +27,7 @@ permalink: /gear/crf-250-rally/pro-taper-grips/
 
 <h3>Installation</h3>
 <p>
-  The throttle grip is hard to install. It's too small for the tube. I shaved down the plastic burs on the throttle tube to make the diameter smaller. I wrapped the tube in tape to reduce friction when putting the grip on. I lubed it with a heap of Windex. It took a lot of pressure.
+  The throttle grip is hard to install. It's too small for the tube. I shaved down the plastic burs on the throttle tube to make the diameter smaller. I lubed it with a heap of Windex. It took a lot of pressure.
 </p>
 
 <img src="\images\blog\pro-taper\cutting-throttle-tube-burs-honda-crf250-rally.jpg" alt="Cutting off the burs from the throttle tube with a knife" />

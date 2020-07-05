@@ -52,7 +52,11 @@ You can read more about why I chose the Honda CRF250 Rally <a href="/bikes/2020/
       Quad Lock Phone Mount
     </a>
   </li>
-  <li>Pro Taper Pillow Top Handgrips</li>
+  <li>
+      <a href="{% post_url 2020-07-05-pro-taper-grips %}">
+        Pro Taper Pillow Top Handgrips
+      </a>
+  </li>
   <li>Generic Heated Handgrip Elements</li>
   <li>Unifilter Reusable Foam Air Filter</li>
   <li>Motopower USB Charger (x3)</li>
