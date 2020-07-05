@@ -113,10 +113,6 @@ The standard tank is 10 liters and is good for around 300km. This range isn't id
 My first Quad Lock failed after 10,000 miles on my last trip. It slowly shook itself to death before my phone went flying off the bike on the Interstate at 80mph. I went to the office in Melbourne and they took (possibly my) feedback on board and designed a new faceplate made of a stronger plastic resin and rubber o'ring to reduce vibration. The Quad Lock is a great and simple system. It is mounted to the windscreen bar and does not restrict the view of the instrument cluster with an iPhone 6S.
 </p>
 
-<h3>Protaper Pillow Top Grip - USA</h3>
-<p>
-The standard grips are small and hard. They do the job but I wanted to add heated grips so I figured I'd change these as well. The pillow tops are much softer and help reduce the vibration caused by the single-cylinder. The throttle tube was a pain to get on and required some carving with a knife to get them to fit.
-</p>
 <h3>Heated Handgrips - China</h3>
 <p>
 A cheap $15 pair of heated elements from Ebay. They are no where near as good as the Oxford ones. I didn't like the grips on them so I installed these. They get warm, not hot. It's better than nothing when riding early morning at altitude. The switch is installed on the left-hand side fairing panel.
