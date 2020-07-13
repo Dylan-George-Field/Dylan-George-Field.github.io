@@ -4,21 +4,38 @@ layout: default
 <article class="post">
 	{% include post-heading.html post=page post_page=true %}
 	<div class="image">
-		<img src="{{ page.feature_image }}" alt="{{ page.feature_image_title }}">
+		<picture>
+			<source srcset="{{ page.feature_image }}.webp">
+			<img src="{{ page.feature_image }}.jpg" alt="{{ page.feature_image_title }}">
+		</picture>
 		<blockquote>{{page.feature_image_title}}</blockquote>
 	</div>
 	<div class="recipe-body">
 		{{ content }}
-		<h2>Map</h2>
-		{{ page.map_embedded }}
+		
+		{% if page.map_embedded %}
+			<h2>Map</h2>
+			{{ page.map_embedded }}
+		{% endif %}
 	</div>
+
 	<h2>Read More</h2>
 	<div class="recipes">
-		<div class="recipe" style="background-image: url('{{page.previous.feature_image}}')">
-			<a href="{{ page.previous.url}}"><span>{{page.previous.title}}</span></a>
+		<div class="recipe">
+			<img class="read-more-img" src="{{page.previous.feature_image}}.webp" />
+			<a href="{{ page.previous.url}}" style="margin-top:-210px">
+				<span>
+					{{page.previous.title}}
+				</span>
+			</a>
 		</div>
-		<div class="recipe" style="background-image: url('{{page.next.feature_image}}')">
-			<a href="{{ page.next.url}}"><span>{{page.next.title}}</span></a>
+		<div class="recipe">
+			<img class="read-more-img" src="{{page.next.feature_image}}.webp" />
+			<a href="{{ page.next.url}}" style="margin-top:-210px">
+				<span>
+					{{page.next.title}}
+				</span>
+			</a>
 		</div>
 	</div>
 
@@ -75,7 +92,8 @@ layout: default
 <script type="text/javascript" src="{{ site.baseurl }}/js/jquery.imgPin.min.js"></script>
 <script>
 	$(function() {
-		$('.post img').imgPin();
+		/* prevent pinterest icon from killing the read-me section */
+		$('.recipe-body img, .image').imgPin();
 
 		$('a[href*=\\#]').on('click', function(event){
 			var el = $(this.hash);
@@ -84,5 +102,7 @@ layout: default
 				$('html,body').animate({scrollTop:$(this.hash).offset().top - 50}, 500);
 			}
 		});
+		var element = document.getElementById("");
+		element.parentNode.removeChild(element);
 	});
 </script>

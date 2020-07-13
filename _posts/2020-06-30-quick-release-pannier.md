@@ -3,7 +3,7 @@ date: 26-5-2020
 title: Do I need quick release panniers?
 categories:
   - Gear
-feature_image: \images\blog\quick-release\tusk-quick-release-with-andy-strapz-avduro-panniers.jpg
+feature_image: \images\blog\quick-release\tusk-quick-release-with-andy-strapz-avduro-panniers
 feature_image_title: Putting on Andy Strapz Avduro panniers using the Tusk quick release
 permalink: /gear/do-I-need-quick-release-panniers/
 show_stats: false

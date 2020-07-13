@@ -3,7 +3,7 @@ date: 01-06-2020
 title: The 2017 Honda CRF 250 Rally - 'Sheepskin'
 categories:
   - Feature
-feature_image: /images/blog/honda-crf-250-rally/honda-crf250-rally-complete-cover.jpg
+feature_image: /images/blog/honda-crf-250-rally/honda-crf250-rally-complete-cover
 feature_image_title: The Honda CRF 250 Rally that was to take me 50,000km from Melbourne to London
 show_stats: false
 ---

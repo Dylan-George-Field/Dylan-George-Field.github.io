@@ -3,7 +3,7 @@ date: 16-6-2020
 title: Camel Tank External 6 Litre Fuel Tank
 categories:
   - Gear
-feature_image: \images\blog\camel-tank\camel-tank-on-crf-250-rally.jpg
+feature_image: \images\blog\camel-tank\camel-tank-on-crf-250-rally
 feature_image_title: The Camel Tank needs custom brackets for a Tusk pannier rack and is safely tucked behind the pannier
 show_stats: false
 permalink: /gear/crf-250-rally/camel-tank-6-litre/
@@ -39,4 +39,7 @@ permalink: /gear/crf-250-rally/camel-tank-6-litre/
   <a href="/contact">Contact me</a> if you need the brackets for your bike.
 </p>
 
-<img src="\images\blog\camel-tank\camel-tank-closeup.jpg" />
+<picture>
+  <source srcset="\images\blog\camel-tank\camel-tank-closeup.webp">
+  <img src="\images\blog\camel-tank\camel-tank-closeup.jpg" alt="The camel tank before installation" />
+</picture>

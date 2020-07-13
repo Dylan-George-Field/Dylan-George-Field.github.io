@@ -3,7 +3,7 @@ date: 22-06-2020
 title: Tusk Pannier Rack
 categories:
   - Gear
-feature_image: \images\blog\tusk-pannier-rack\tusk-pannier-rack-side.jpg
+feature_image: \images\blog\tusk-pannier-rack\tusk-pannier-rack-side
 feature_image_title: The Tusk pannier rack from the exhaust side. Note the passenger pegs removed.
 show_stats: false
 permalink: /gear/crf-250-rally/tusk-pannier-rack/
@@ -41,6 +41,12 @@ permalink: /gear/crf-250-rally/tusk-pannier-rack/
   The rack comes with a great top plate. It's wide and flat. It's perfect for a top-bag, pelican case or rotopax. They usually come separate and for this price and rounds out a lot of the problems with the rack. It's great value despite its shortcomings.
 </p>
 
-<img src="\images\blog\tusk-pannier-rack\tusk-pannier-rack-left.jpg" />
+<picture>
+  <source srcset="\images\blog\tusk-pannier-rack\tusk-pannier-rack-left.webp">
+  <img src="\images\blog\tusk-pannier-rack\tusk-pannier-rack-left.jpg" alt="A closeup of the left pannier rack" />
+</picture>
 
-<img src="\images\blog\tusk-pannier-rack\tusk-pannier-rack-right.jpg" />
+<picture>
+  <source srcset="\images\blog\tusk-pannier-rack\tusk-pannier-rack-right.webp">
+  <img src="\images\blog\tusk-pannier-rack\tusk-pannier-rack-right.jpg" alt="A closeup of the right pannier rack" />
+</picture>

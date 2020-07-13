@@ -3,7 +3,7 @@ date: 24-06-2020
 title: B&B Offroad Engineering Bashplate
 categories:
   - Gear
-feature_image: \images\blog\bb-bashplate\bb-bashplate-mounted-honda-crf-250-rally.jpg
+feature_image: \images\blog\bb-bashplate\bb-bashplate-mounted-honda-crf-250-rally
 feature_image_title: The B&B Bashplate mounted to the bottom of the Honda CRF 250 Rally
 show_stats: false
 permalink: /gear/crf-250-rally/bb-offroad-bashplate/
@@ -28,7 +28,13 @@ permalink: /gear/crf-250-rally/bb-offroad-bashplate/
 <p>
   Legends 👍
 </p>
+<picture>
+  <source srcset="\images\blog\bb-bashplate\no-bashplate-underneath-honda-crf-250-rally.webp">
+  <img src="\images\blog\bb-bashplate\no-bashplate-underneath-honda-crf-250-rally.jpg" alt="Underneath the CRF250 Rally without a bashplate" />
+</picture>
 
-<img src="\images\blog\bb-bashplate\no-bashplate-underneath-honda-crf-250-rally.jpg" alt="Underneath the CRF250 Rally without a bashplate" />
+<picture>
+  <source srcset="\images\blog\bb-bashplate\installing-the-bb-offroad-engineering-bashplate-honda-crf-250-rally.webp">
+  <img src="\images\blog\bb-bashplate\installing-the-bb-offroad-engineering-bashplate-honda-crf-250-rally.jpg" alt="Installing the B&B Offroad Engineering Bashplate to the Honda CRF250 Rally" />
+</picture>
 
-<img src="\images\blog\bb-bashplate\installing-the-bb-offroad-engineering-bashplate-honda-crf-250-rally.jpg" alt="Installing the B&B Offroad Engineering Bashplate" />

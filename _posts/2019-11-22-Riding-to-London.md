@@ -3,7 +3,7 @@ date: 22-11-2019
 title: Riding Melbourne > London in 2020
 categories:
   - Feature
-feature_image: /images/blog/cancelled-due-to-coronavirus-dylan-george-field-feature.jpg
+feature_image: /images/blog/cancelled-due-to-coronavirus-dylan-george-field-feature
 feature_image_title: A map with red string from melbourne to london covers Dylan George Field's bedroom wall
 show_stats: false
 ---

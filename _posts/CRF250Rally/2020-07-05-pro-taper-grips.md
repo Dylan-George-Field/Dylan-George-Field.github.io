@@ -3,7 +3,7 @@ date: 05-07-2020
 title: Pro Taper Pillow Top Grips
 categories:
   - Gear
-feature_image: \images\blog\pro-taper\pro-taper-pillow-top-honda-crf250-rally.jpg
+feature_image: \images\blog\pro-taper\pro-taper-pillow-top-honda-crf250-rally
 feature_image_title: The Pro Taper Pillow Top grip installed on the Honda CRF250 Rally
 show_stats: false
 permalink: /gear/crf-250-rally/pro-taper-grips/
@@ -27,7 +27,7 @@ permalink: /gear/crf-250-rally/pro-taper-grips/
 
 <h3>Installation</h3>
 <p>
-  The throttle grip is hard to install. It's too small for the tube. I shaved down the plastic burs on the throttle tube and sanded it down to make the diameter smaller. I lubed it with a heap of Windex. It takes a lot of elbow grease to get it on.
+  The throttle grip is hard to install. It's too small for the tube. I shaved down the plastic burs on the throttle tube and sanded it down to make the diameter smaller. I used cable ties to thread it over some heated handgrip elements with a lot of difficulty.
 </p>
 
 <picture>

@@ -3,7 +3,7 @@ date: 19-6-2020
 title: Lightforce 6" LED Lightbar
 categories:
   - Gear
-feature_image: \images\blog\lightforce-lightbar\lightforce-6-inch-lightbar-on-crf250-rally.jpg
+feature_image: \images\blog\lightforce-lightbar\lightforce-6-inch-lightbar-on-crf250-rally
 feature_image_title: It looks like an angry set of teeth 😬
 show_stats: false
 permalink: /gear/crf-250-rally/lightforce-6-inch-lightbar/
@@ -56,8 +56,17 @@ permalink: /gear/crf-250-rally/lightforce-6-inch-lightbar/
   Remember to hook it up to the high-beam indicator so you don't dazzle people on the road. I mounted the relay under the seat and installed the on/off switch in the top left fairing under the handlebar.
 </p>
 
-<img src="\images\blog\lightforce-lightbar\lightforce-6-inch-lightbar-on-off-switch.jpg" alt="On/Off switch for auxiliary 6 inch light bar on left hand fairing of the Honda CRF250 Rally" />
+<picture>
+  <source srcset="\images\blog\lightforce-lightbar\lightforce-6-inch-lightbar-on-off-switch.webp">
+  <img src="\images\blog\lightforce-lightbar\lightforce-6-inch-lightbar-on-off-switch.jpg" alt="On/Off switch for auxiliary 6 inch light bar on left hand fairing of the Honda CRF250 Rally" />
+</picture>
 
-<img src="\images\blog\lightforce-lightbar\lightforce-6-inch-lightbar-on-crf250-rally-2.jpg" alt="A reverse angle shot of the lightforce 6 inch lightbar on the Honda CRF250 Rally" />
+<picture>
+  <source srcset="\images\blog\lightforce-lightbar\lightforce-6-inch-lightbar-on-crf250-rally-2.webp">
+  <img src="\images\blog\lightforce-lightbar\lightforce-6-inch-lightbar-on-crf250-rally-2.jpg" alt="A reverse angle shot of the lightforce 6 inch lightbar on the Honda CRF250 Rally" />
+</picture>
 
-<img src="\images\blog\lightforce-lightbar\lightforce-6-inch-single-row-led-bar-box.jpg" alt="The Lightforce 6 inch single LED bar box" />
+<picture>
+  <source srcset="\images\blog\lightforce-lightbar\lightforce-6-inch-single-row-led-bar-box.webp">
+  <img src="\images\blog\lightforce-lightbar\lightforce-6-inch-single-row-led-bar-box.jpg" alt="The Lightforce 6 inch single LED bar box" />
+</picture>

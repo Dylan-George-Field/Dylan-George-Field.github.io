@@ -10,7 +10,10 @@ image_view: true
 		<div class="recipes">
 			{% for post in category[1] %}
 				<div class="recipe">
-					<img src="{{ post.feature_image }}" alt="{{ post.feature_image_title}}" />
+					<picture>
+						<source srcset="{{ post.feature_image }}.webp">
+						<img src="{{ post.feature_image }}.jpg" alt="{{ post.feature_image_title}}" />
+					</picture>
 					<a  href="{{ site.baseurl }}{{ post.url }}" style="margin-top:-210px">
 						{% if post.stats %}
 							<span class="stats">

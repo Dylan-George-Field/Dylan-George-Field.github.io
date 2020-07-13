@@ -3,7 +3,7 @@ date: 05-6-2020
 title: Barkbusters Handguards VPS
 categories:
   - Gear
-feature_image: \images\blog\barkbusters-vps\barkbusters-vps-closeup.jpg
+feature_image: \images\blog\barkbusters-vps\barkbusters-vps-closeup
 feature_image_title: The Barkbusters VPS with wind deflectors attached
 show_stats: false
 permalink: /gear/crf-250-rally/barkbusters-vps-handguards/
@@ -33,4 +33,7 @@ permalink: /gear/crf-250-rally/barkbusters-vps-handguards/
   Thanks to Barkbusters for supplying them! 👍
 </p>
 
-<img src="\images\blog\barkbusters-vps\barkbusters-vps-good-protect.jpg" alt="Great protection from the handguards" />
+<picture>
+  <source srcset="\images\blog\barkbusters-vps\barkbusters-vps-good-protect.webp">
+  <img src="\images\blog\barkbusters-vps\barkbusters-vps-good-protect.jpg" alt="Great protection from the handguards" />
+</picture>

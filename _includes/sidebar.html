@@ -3,7 +3,10 @@
 	<div class="author">
 		<p>
 			<a href="{{ site.baseurl }}/about/">
-				<img src="{{ site.baseurl }}{{ site.data.sidebar.author_image }}" alt="author" class="author">
+				<picture class="author">
+					<source srcset="{{ site.baseurl }}{{ site.data.sidebar.author_image }}.webp">
+					<img src="{{ site.baseurl }}{{ site.data.sidebar.author_image }}.jpg" alt="Dylan George Field">
+				</picture>
 			</a>
 		</p>
 		<p>{{ site.data.sidebar.description_markdown | markdownify }}</p>

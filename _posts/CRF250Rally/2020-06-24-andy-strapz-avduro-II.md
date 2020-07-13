@@ -3,7 +3,7 @@ date: 24-06-2020
 title: Andy Strapz Avduro II Soft Panniers
 categories:
   - Gear
-feature_image: \images\blog\andy-strapz\me-holding-andy-strapz-avduro-II-panniers-delivery.jpg
+feature_image: \images\blog\andy-strapz\me-holding-andy-strapz-avduro-II-panniers-delivery
 feature_image_title: Me with a fresh delivery of Andy Strapz Avduro panniers and some inner liners he threw in 👍
 show_stats: false
 permalink: /gear/crf-250-rally/andy-strapz-avduro-II-panniers/
