@@ -27,6 +27,6 @@ permalink: /gear/crf-250-rally/pro-taper-grips/
 
 <h3>Installation</h3>
 <p>
-  The throttle grip is hard to install. It's too small for the tube. I shaved down the plastic burs on the throttle tube and sanded it down to make the diameter smaller as shown in the heated handgrips article.
+  The throttle grip is hard to install. It's too small for the tube. I shaved down the plastic burs on the throttle tube and sanded it down to make the diameter smaller as shown in the <a href="{% post_url 2020-07-13-heated-handgrips %}">heated handgrips article</a>.
 </p>
 

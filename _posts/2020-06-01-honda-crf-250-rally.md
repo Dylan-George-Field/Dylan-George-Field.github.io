@@ -57,7 +57,11 @@ You can read more about why I chose the Honda CRF250 Rally <a href="/bikes/2020/
         Pro Taper Pillow Top Handgrips
       </a>
   </li>
-  <li>Generic Heated Handgrip Elements</li>
+  <li>
+    <a href="{% post_url 2020-07-13-heated-handgrips %}">
+      Generic Heated Handgrip Elements
+    </a>
+  </li>
   <li>Unifilter Reusable Foam Air Filter</li>
   <li>Motopower USB Charger (x3)</li>
   <li>SSB Lithium Ion Battery LH7L-BS</li>
