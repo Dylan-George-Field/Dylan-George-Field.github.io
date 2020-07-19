@@ -18,11 +18,11 @@ permalink: /gear/crf-250-rally/lithium-ion-battery/
 </p>
 
 <p>
-  I replaced the original Yuasa YTZ8V acid battery with a lithium ion. SSB recommends the LH7L-BS for the CRF250 Rally and it fits perfectly. It is over half the weight. It's unbelievable. It probably saves 1.5kg and on a small capacity bike it's welcome. The battery performed flawlessly over 3 months. It comes with a digital voltage meter too.
+  I replaced the original Yuasa YTZ8V acid battery with a lithium ion. SSB recommends the LH7L-BS for the CRF250 Rally and it fits perfectly. It is over half the weight and saves about 1.5kg. It's unbelievable. Great for a small capacity bike with low power and already weighed down by gear.
 </p>
 
 <p>
-  The lithium ion battery apparently won't do well in extreme hot/cold temperatures. I never got to test it. 
+  The battery has performed flawlessly over the last 3 months. It comes with a digital voltage meter. The lithium ion batteries do well in extreme hot/cold temperatures. However, I never got to test it. 
 </p>
 
 <p>
