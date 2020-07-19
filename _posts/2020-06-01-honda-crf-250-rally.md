@@ -62,9 +62,17 @@ You can read more about why I chose the Honda CRF250 Rally <a href="/bikes/2020/
       Generic Heated Handgrip Elements
     </a>
   </li>
-  <li>Unifilter Reusable Foam Air Filter</li>
+  <li>
+    <a href="{% post_url 2020-07-16-foam-air-filter %}">
+      Unifilter Reusable Foam Air Filter
+    </a>
+  </li>
   <li>Motopower USB Charger (x3)</li>
-  <li>SSB Lithium Ion Battery LH7L-BS</li>
+  <li>
+    <a href="{% post_url 2020-07-16-lithium-ion-battery %}">
+      SSB Lithium Ion Battery LH7L-BS
+    </a>
+  </li>
   <li>
     <a href="{% post_url 2020-06-03-osprey-transporter %}">
       Osprey Transporter 40L Top Bag
