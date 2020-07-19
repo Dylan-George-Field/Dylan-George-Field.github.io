@@ -8,7 +8,7 @@ feature_image_title: The Honda CRF 250 Rally that was to take me 50,000km from M
 show_stats: false
 ---
 <p>
-Low-cost, modern and mid-weight, this 157kg dual purpose bike is perfect for going around the world. It's based on the tried and tested Honda CRF250L and has a larger fuel tank, windshield, and LED headlights. I picked it up second-hand for just under $5,000 AUD with 7,000km on the clock.
+Low-cost, modern and reliable, this 157kg dual purpose bike is perfect to go around the world. It's based on the tried and tested Honda CRF250L and has a larger fuel tank, windshield, and LED headlights. It was picked up second-hand for just under $5,000 AUD with 7,000km on the clock.
 </p>
 <p>
 You can read more about why I chose the Honda CRF250 Rally <a href="/bikes/2020/05/26/why-the-250-rally/">here</a>.
