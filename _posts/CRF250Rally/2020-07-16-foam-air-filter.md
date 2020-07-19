@@ -14,7 +14,7 @@ permalink: /gear/crf-250-rally/foam-air-filter/
   <a href="https://www.uniflow.com.au/">www.uniflow.com.au</a>
 </h4>
 <p>
-  Air filters are cheap. They cost around $25 AUD and need to be replaced every 25,000km on a Honda CRF250 Rally. My trip from Melbourne to London would take approx 50,000km so I would need to swap it at leased once. I don't want to bother trying to find one on the road. I could take a spare but I don't like to carry things I don't need and the paper filter could get damaged by water.
+  Air filters are cheap. They cost around $25 AUD and need to be replaced every 25,000km on a Honda CRF250 Rally. My trip from Melbourne to London would take approx 50,000km so I would need to swap it at leased once. I don't want to bother trying to find one on the road. I could take a spare but I don't like to carry things I don't need. Plus, it could get damaged.
 </p>
 
 <p>
