@@ -1,12 +1,12 @@
 ---
 date: 20-07-2020
-title: Front Panniers
+title: Front Tank Panniers
 categories:
   - Gear
-feature_image: \images\blog\front-panniers\tank-bag-on-honda-crf250-rally
+feature_image: \images\blog\front-tank-panniers\tank-bag-on-honda-crf250-rally
 feature_image_title: The small Wolfman tank bag on the Honda CRF250 Rally
 show_stats: false
-permalink: /gear/crf-250-rally/front-panniers/
+permalink: /gear/crf-250-rally/front-tank-panniers/
 ---
 <h2>Wolfman - USA</h2>
 <h3>Cost - Came with the bike</h3>
@@ -24,8 +24,8 @@ permalink: /gear/crf-250-rally/front-panniers/
 </p>
 
 <picture>
-  <source srcset="\images\blog\front-panniers\small-wolfman-tank-bag-honda-crf250-rally.webp">
-  <img src="\images\blog\front-panniers\small-wolfman-tank-bag-honda-crf250-rally.jpg" alt="The small Wolfman tank bag on the Honda CRF250 Rally" />
+  <source srcset="\images\blog\front-tank-panniers\small-wolfman-tank-bag-honda-crf250-rally.webp">
+  <img src="\images\blog\front-tank-panniers\small-wolfman-tank-bag-honda-crf250-rally.jpg" alt="The small Wolfman tank bag on the Honda CRF250 Rally" />
 </picture>
 
 <h3>Side Tank Panniers</h3>
@@ -43,8 +43,8 @@ permalink: /gear/crf-250-rally/front-panniers/
 </p>
 
 <picture>
-  <source srcset="\images\blog\front-panniers\wolfman-side-pannier-honda-crf250-rally.webp">
-  <img src="\images\blog\front-panniers\wolfman-side-pannier-honda-crf250-rally.jpg" alt="My hand next to the Wolfman tank pannier for size reference" />
+  <source srcset="\images\blog\front-tank-panniers\wolfman-side-pannier-honda-crf250-rally.webp">
+  <img src="\images\blog\front-tank-panniers\wolfman-side-pannier-honda-crf250-rally.jpg" alt="My hand next to the Wolfman tank pannier for size reference" />
 </picture>
 
 

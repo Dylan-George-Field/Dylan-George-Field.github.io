@@ -79,11 +79,15 @@ You can read more about why I chose the Honda CRF250 Rally <a href="/bikes/2020/
     </a>
   </li>
   <li>
-    <a href="{% post_url 2020-07-20-front-panniers %}">
+    <a href="{% post_url 2020-07-20-front-tank-panniers %}">
       Wolfman Tankbag & Tank Panniers
     </a>
   </li>
-  <li>Decathlon Bike Frame Bags (x2) Sitched with Compression Straps</li>
+  <li>
+    <a href="{% post_url 2020-07-20-front-pannier-pockets %}">
+      Decathlon Bike Frame Bags (x2) Sitched with Compression Straps
+    </a>
+  </li>
   <li>
     <a href="{% post_url 2020-07-14-lowered-seat %}">
       Lowered Seat by 1.5"
