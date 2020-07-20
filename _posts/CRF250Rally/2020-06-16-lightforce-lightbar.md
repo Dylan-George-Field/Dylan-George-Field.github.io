@@ -9,7 +9,7 @@ show_stats: false
 permalink: /gear/crf-250-rally/lightforce-6-inch-lightbar/
 ---
 <h2>Lightforce - Australia</h2>
-<h3>Cost - $175.00 AUD</h3>
+<h3>Cost - $175 AUD</h3>
 <h4><a href="https://www.lightforce.com/">www.lightforce.com</a></h4>
 <p>
   A lifesaving upgrade that adds over 50% more light to the CRF250 Rally's arsenal. The standard LED headlamps are great for the street but not for extended remote riding in complete darkness.

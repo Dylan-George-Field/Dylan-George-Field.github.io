@@ -9,9 +9,9 @@ show_stats: false
 permalink: /gear/crf-250-rally/homemade-pannier-pockets/
 ---
 <h2>Decathlon - France</h2>
-<h3>Cost - $40</h3>
+<h3>Cost - $40 AUD</h3>
 <h4>
-  <a href="https://decathlon.com.au/">www.decathlon.com.au/</a>
+  <a href="https://decathlon.com.au/">www.decathlon.com.au</a>
 </h4>
 <p>
   Pannier pockets are expensive if you buy motorbike specific ones. The Giant Loop ones are $150. I can't justify that. I just wanted some bags to store tyre tubes in. I decided to find an alternative.
