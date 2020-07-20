@@ -78,9 +78,17 @@ You can read more about why I chose the Honda CRF250 Rally <a href="/bikes/2020/
       Osprey Transporter 40L Top Bag
     </a>
   </li>
-  <li>Wolfman Tankbag/Pannier Pockets</li>
+  <li>
+    <a href="{% post_url 2020-07-20-front-panniers %}">
+      Wolfman Tankbag & Tank Panniers
+    </a>
+  </li>
   <li>Decathlon Bike Frame Bags (x2) Sitched with Compression Straps</li>
-  <li>Lowered Seat by 1.5"</li>
+  <li>
+    <a href="{% post_url 2020-07-14-lowered-seat %}">
+      Lowered Seat by 1.5"
+    </a>
+  </li>
   <li>Glasses Case tied to Handlebars</li>
   <li>Increased Pre-Load on Rear Spring</li>
 </ul>
