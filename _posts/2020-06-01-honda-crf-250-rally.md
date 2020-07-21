@@ -67,7 +67,11 @@ You can read more about why I chose the Honda CRF250 Rally <a href="/bikes/2020/
       Unifilter Reusable Foam Air Filter
     </a>
   </li>
-  <li>Motopower USB Charger (x3)</li>
+  <li>
+    <a href="{% post_url 2020-07-21-usb-chargers %}">
+      Motopower USB Charger (x3)
+    </a>
+  </li>
   <li>
     <a href="{% post_url 2020-07-16-lithium-ion-battery %}">
       SSB Lithium Ion Battery LH7L-BS
