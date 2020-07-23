@@ -6,6 +6,7 @@ categories:
 feature_image: /images/blog/honda-crf-250-rally/honda-crf250-rally-complete-cover
 feature_image_title: The Honda CRF 250 Rally that was to take me 50,000km from Melbourne to London
 show_stats: false
+permalink: /bikes/crf-250-rally/
 ---
 <p>
 Low-cost, modern and reliable, this 157kg dual purpose bike is perfect to go around the world. It's based on the tried and tested Honda CRF250L and has a larger fuel tank, windshield, and LED headlights. It was picked up second-hand for just under $5,000 AUD with 7,000km on the clock.
@@ -16,7 +17,7 @@ You can read more about why I chose the Honda CRF250 Rally <a href="/bikes/2020/
 
 <p>A huge thank you to Andy Strapz, Barkbusters, B&B Offroad Engineering and Lightforce for kindly supporting me and the adventure rider community 🇦🇺</p>
 
-<h2>Modification Quick List</h2>
+<h2>Quick List</h2>
 
 <ul>
   <li>
@@ -113,7 +114,7 @@ You can read more about why I chose the Honda CRF250 Rally <a href="/bikes/2020/
 
 <h2>Stats</h2>
 <ul>
-  <li>Weight: 165kg
+  <li>Weight: 165kg</li>
   <li>Range: 400km (+100km with fuel bladder)</li>
   <li>Power: 24hp</li>
   <li>Luggage: 110 litres</li>
