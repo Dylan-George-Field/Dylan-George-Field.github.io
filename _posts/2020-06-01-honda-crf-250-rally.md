@@ -109,11 +109,11 @@ You can read more about why I chose the Honda CRF250 Rally <a href="/bikes/2020/
   </li>
 </ul>
 
-<h3>Thanks</h3>
+<h2>Thanks</h3>
 
 <p>A huge thank you to Andy Strapz, Barkbusters, B&B Offroad Engineering and Lightforce for kindly supporting me and the adventure rider community 🇦🇺</p>
 
-<h3>Stats</h3>
+<h2>Stats</h3>
 
 <ul>
   <li>Weight: 165kg</li>
