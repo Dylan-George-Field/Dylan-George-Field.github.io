@@ -6,6 +6,7 @@ categories:
 feature_image: /images/blog/cancelled-due-to-coronavirus-dylan-george-field-feature
 feature_image_title: A map with red string from melbourne to london covers Dylan George Field's bedroom wall
 show_stats: false
+permalink: /epic-rides/melbourne-to-london/
 ---
 Update: 3/3/2020 I made the uncertain and unfortunate call to cancelled the trip after 6 months of dedicated planning and hard work. This is based on a projected spread of the virus and reports of border closures with Iran and China. I expect the virus to become pandemic with further uncertainty and closures.
 Catching this early means I can stay at work and keep my house. Thank you all for your support.

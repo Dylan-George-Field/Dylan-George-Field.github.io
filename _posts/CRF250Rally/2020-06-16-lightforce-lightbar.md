@@ -2,11 +2,11 @@
 date: 19-6-2020
 title: Lightforce 6" LED Lightbar
 categories:
-  - Gear
+  - Modifications
 feature_image: \images\blog\lightforce-lightbar\lightforce-6-inch-lightbar-on-crf250-rally
 feature_image_title: It looks like an angry set of teeth 😬
 show_stats: false
-permalink: /gear/crf-250-rally/lightforce-6-inch-lightbar/
+permalink: /bikes/honda-crf-250-rally/lightforce-6-inch-lightbar/
 ---
 <h2>Lightforce - Australia</h2>
 <h3>Cost - $175 AUD</h3>

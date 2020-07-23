@@ -2,11 +2,11 @@
 date: 05-07-2020
 title: Pro Taper Pillow Top Grips
 categories:
-  - Gear
+  - Modifications
 feature_image: \images\blog\pro-taper\pro-taper-pillow-top-honda-crf250-rally
 feature_image_title: The Pro Taper Pillow Top grip installed on the Honda CRF250 Rally
 show_stats: false
-permalink: /gear/crf-250-rally/pro-taper-grips/
+permalink: /bikes/honda-crf-250-rally/pro-taper-grips/
 ---
 <h2>Pro Taper - USA</h2>
 <h3>Cost - $20 AUD</h3>

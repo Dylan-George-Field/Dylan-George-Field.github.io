@@ -2,11 +2,11 @@
 date: 20-07-2020
 title: Handlebar Glasses Case
 categories:
-  - Gear
+  - Modifications
 feature_image: \images\blog\glasses-case\glasses-case-on-handlebars-honda-crf250-rally
 feature_image_title: I won't lose another 7 pairs of glasses on my next adventure!
 show_stats: false
-permalink: /gear/crf-250-rally/handlebar-glasses-case/
+permalink: /bikes/honda-crf-250-rally/handlebar-glasses-case/
 ---
 <h2>Generic - China</h2>
 <h3>Cost - $5 AUD</h3>

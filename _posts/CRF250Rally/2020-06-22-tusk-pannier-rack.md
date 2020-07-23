@@ -2,11 +2,11 @@
 date: 22-06-2020
 title: Tusk Pannier Rack
 categories:
-  - Gear
+  - Modifications
 feature_image: \images\blog\tusk-pannier-rack\tusk-pannier-rack-side
 feature_image_title: The Tusk pannier rack from the exhaust side. Note the passenger pegs removed.
 show_stats: false
-permalink: /gear/crf-250-rally/tusk-pannier-rack/
+permalink: /bikes/honda-crf-250-rally/tusk-pannier-rack/
 ---
 <h2>Tusk - USA</h2>
 <h3>Cost - $250 USD</h3>

@@ -2,11 +2,11 @@
 date: 14-07-2020
 title: Lowered Seat
 categories:
-  - Gear
+  - Modifications
 feature_image: \images\blog\lowered-seat\finished-lowered-seat-with-cushin-honda-crf-250-rally
 feature_image_title: The finished lowered seat with faux sheepskin cover 🐑
 show_stats: false
-permalink: /gear/crf-250-rally/lowered-seat/
+permalink: /bikes/honda-crf-250-rally/lowered-seat/
 ---
 <h2>Homemade - Me</h2>
 <h3>Cost - $50 AUD</h3>

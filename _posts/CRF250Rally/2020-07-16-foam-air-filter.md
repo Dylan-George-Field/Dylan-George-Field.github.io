@@ -2,11 +2,11 @@
 date: 16-07-2020
 title: Foam Air Filter
 categories:
-  - Gear
+  - Modifications
 feature_image: \images\blog\air-filter\unifilter-installed-honda-crf-250-rally
 feature_image_title: The air filter is accessible by removing the right-hand side middle fairing
 show_stats: false
-permalink: /gear/crf-250-rally/foam-air-filter/
+permalink: /bikes/honda-crf-250-rally/foam-air-filter/
 ---
 <h2>Unifilter - Australia</h2>
 <h3>Cost - $50 AUD</h3>

@@ -2,11 +2,11 @@
 date: 16-07-2020
 title: Lithium Ion Battery
 categories:
-  - Gear
+  - Modifications
 feature_image: \images\blog\lithium-ion-battery\ssb-lithium-ion-battery-lh7l-bs-installed-honda-crf250-rally
 feature_image_title: The SSB LH71-BS lithium ion battery installed on the Honda CRF250 Rally
 show_stats: false
-permalink: /gear/crf-250-rally/lithium-ion-battery/
+permalink: /bikes/honda-crf-250-rally/lithium-ion-battery/
 ---
 <h2>Super Start Batteries (SSB) - Australia</h2>
 <h3>Cost - $200 AUD</h3>

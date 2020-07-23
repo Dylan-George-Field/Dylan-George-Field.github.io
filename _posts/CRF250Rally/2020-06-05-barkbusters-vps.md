@@ -2,11 +2,11 @@
 date: 05-6-2020
 title: Barkbusters Handguards VPS
 categories:
-  - Gear
+  - Modifications
 feature_image: \images\blog\barkbusters-vps\barkbusters-vps-closeup
 feature_image_title: The Barkbusters VPS with wind deflectors attached
 show_stats: false
-permalink: /gear/crf-250-rally/barkbusters-vps-handguards/
+permalink: /bikes/honda-crf-250-rally/barkbusters-vps-handguards/
 ---
 <h2>Barkbusters - Australia</h2>
 <h3>Cost - $100 AUD</h3>

@@ -2,11 +2,11 @@
 date: 21-07-2020
 title: 3x USB Chargers
 categories:
-  - Gear
+  - Modifications
 feature_image: \images\blog\usb-chargers\motopower-twin-motorbike-usb-charger-honda-crf250-rally
 feature_image_title: The Motopower twin USB charger on the right front fairing ⚡
 show_stats: false
-permalink: /gear/crf-250-rally/usb-chargers/
+permalink: /bikes/honda-crf-250-rally/usb-chargers/
 ---
 <h2>Motopower - China</h2>
 <h3>Cost - $35 AUD</h3>

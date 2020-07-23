@@ -2,11 +2,11 @@
 date: 20-07-2020
 title: Increased Rear Spring Pre-load
 categories:
-  - Gear
+  - Modifications
 feature_image: \images\blog\rear-preload\hit-it-with-a-hammer-adjust-rear-preload-honda-crf250-rally
 feature_image_title: Adjust the rear spring pre-load with a hole punch ✊
 show_stats: false
-permalink: /gear/crf-250-rally/increased-rear-spring-preload/
+permalink: /bikes/honda-crf-250-rally/increased-rear-spring-preload/
 ---
 <h2>Homemade - Me</h2>
 <h3>Cost - $10 AUD</h3>

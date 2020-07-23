@@ -2,11 +2,11 @@
 date: 24-06-2020
 title: B&B Offroad Engineering Bashplate
 categories:
-  - Gear
+  - Modifications
 feature_image: \images\blog\bb-bashplate\bb-bashplate-mounted-honda-crf-250-rally
 feature_image_title: The B&B Bashplate mounted to the bottom of the Honda CRF 250 Rally
 show_stats: false
-permalink: /gear/crf-250-rally/bb-offroad-bashplate/
+permalink: /bikes/honda-crf-250-rally/bb-offroad-bashplate/
 ---
 <h2>B&B Offroad Engineering Ballarat - Australia</h2>
 <h3>Cost - $230 AUD</h3>

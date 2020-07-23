@@ -2,11 +2,11 @@
 date: 20-07-2020
 title: Front Pannier Pockets
 categories:
-  - Gear
+  - Modifications
 feature_image: \images\blog\front-pannier-pockets\front-homemade-pannier-pockets-on-honda-crf250-rally
 feature_image_title: The pannier pockets are above the Wolfman tank panniers
 show_stats: false
-permalink: /gear/crf-250-rally/homemade-pannier-pockets/
+permalink: /bikes/honda-crf-250-rally/homemade-pannier-pockets/
 ---
 <h2>Decathlon - France</h2>
 <h3>Cost - $40 AUD</h3>

@@ -7,6 +7,7 @@ feature_image: \images\blog\quick-release\tusk-quick-release-with-andy-strapz-av
 feature_image_title: Putting on Andy Strapz Avduro panniers using the Tusk quick release
 permalink: /gear/do-I-need-quick-release-panniers/
 show_stats: false
+permalink: /blog/do-I-need-quick-release-panniers/
 ---
 <p>
   Yes. Absolutely!

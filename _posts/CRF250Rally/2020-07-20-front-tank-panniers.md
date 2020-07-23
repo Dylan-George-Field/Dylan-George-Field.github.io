@@ -2,11 +2,11 @@
 date: 20-07-2020
 title: Front Tank Panniers
 categories:
-  - Gear
+  - Modifications
 feature_image: \images\blog\front-tank-panniers\tank-bag-on-honda-crf250-rally
 feature_image_title: The small Wolfman tank bag on the Honda CRF250 Rally
 show_stats: false
-permalink: /gear/crf-250-rally/front-tank-panniers/
+permalink: /bikes/honda-crf-250-rally/front-tank-panniers/
 ---
 <h2>Wolfman - USA</h2>
 <h3>Cost - Came with the bike</h3>

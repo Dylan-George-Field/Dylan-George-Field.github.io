@@ -2,11 +2,11 @@
 date: 13-07-2020
 title: Heated Handgrips
 categories:
-  - Gear
+  - Modifications
 feature_image: \images\blog\heated-handgrips\installing-heated-handgrip-element-install-honda-crf250-rally
 feature_image_title: Take care to install the delicate elements!
 show_stats: false
-permalink: /gear/crf-250-rally/heated-handgrips/
+permalink: //bikes/honda-crf-250-rally/heated-handgrips/
 ---
 <h2>Generic - China</h2>
 <h3>Cost - $12 AUD</h3>
