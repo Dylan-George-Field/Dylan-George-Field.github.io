@@ -42,8 +42,8 @@ permalink: /bikes/honda-crf-250-rally/tusk-pannier-rack/
 </p>
 
 <picture>
-  <source srcset="\images\blog\tusk-pannier-rack\tusk-pannier-rack-left-camel-tank-honda-crf250-rally.webp">
-  <img src="\images\blog\tusk-pannier-rack\tusk-pannier-rack-left-camel-tank-honda-crf250-rally.jpg" alt="A side angle of the Tusk pannier rack on the Honda CRF250 Rally" />
+  <source srcset="\images\blog\tusk-pannier-rack\tusk-pannier-side-honda-crf250-rally.webp">
+  <img src="\images\blog\tusk-pannier-rack\tusk-pannier-side-honda-crf250-rally.jpg" alt="A side angle of the Tusk pannier rack on the Honda CRF250 Rally" />
 </picture>
 
 <blockquote>
