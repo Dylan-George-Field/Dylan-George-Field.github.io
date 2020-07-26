@@ -76,15 +76,3 @@ permalink: /bikes/honda-crf-250-rally/tusk-pannier-rack/
 <blockquote>
   The foot-pegs need to be removed for these stupid steel plates.
 </blockquote>
-
-
-<h3>Poor Workmanship</h3>
-<picture>
-  <source srcset="\images\blog\tusk-pannier-rack\tusk-pannier-rack-left.webp">
-  <img src="\images\blog\tusk-pannier-rack\tusk-pannier-rack-left.jpg" alt="A closeup of the left pannier rack" />
-</picture>
-
-<picture>
-  <source srcset="\images\blog\tusk-pannier-rack\tusk-pannier-rack-right.webp">
-  <img src="\images\blog\tusk-pannier-rack\tusk-pannier-rack-right.jpg" alt="A closeup of the right pannier rack" />
-</picture>
