@@ -47,7 +47,7 @@ permalink: /bikes/honda-crf-250-rally/tusk-pannier-rack/
 </picture>
 
 <blockquote>
-  The compost bin looks great lol
+  Nice compost bin lol
 </blockquote>
 
 <picture>
@@ -56,7 +56,7 @@ permalink: /bikes/honda-crf-250-rally/tusk-pannier-rack/
 </picture>
 
 <blockquote>
-  The left hand side of the rack with Camel Tank installed (requires custom modification, see <a href="{% post_url 2020-06-16-camel-tank %}">here</a>). Notice there's a substantial gap between the tank, pannier and bike.
+  The left hand side would have about 5 inches of empty space if it was installed as it should. It's in the middle using custom brackets. The rack should be brought in 2 inches from factory. See more <a href="{% post_url 2020-06-16-camel-tank %}">here</a>).
 </blockquote>
 
 <picture>
@@ -65,7 +65,7 @@ permalink: /bikes/honda-crf-250-rally/tusk-pannier-rack/
 </picture>
 
 <blockquote>
-  The right hand side has a similar 2 inch gap to the standard exhaust. It could be brought in. An aftermarket exhaust can see further gains.
+  The right hand side has a similar 2 inch gap to the standard exhaust. You can close it more with an aftermarket exhaust.
 </blockquote>
 
 <picture>
