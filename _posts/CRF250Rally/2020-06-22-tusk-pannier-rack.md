@@ -3,8 +3,8 @@ date: 22-06-2020
 title: Tusk Pannier Rack
 categories:
   - Modifications
-feature_image: \images\blog\tusk-pannier-rack\tusk-pannier-rack-side
-feature_image_title: The Tusk pannier rack from the exhaust side. Note the passenger pegs removed.
+feature_image: \images\blog\tusk-pannier-rack\tusk-pannier-top-plate-honda-crf250-rally
+feature_image_title: The Tusk pannier rack has one nice flat top plate 👌
 show_stats: false
 permalink: /bikes/honda-crf-250-rally/tusk-pannier-rack/
 ---
@@ -41,6 +41,44 @@ permalink: /bikes/honda-crf-250-rally/tusk-pannier-rack/
   The rack comes with a great top plate. It's wide and flat. It's perfect for a top-bag, pelican case or rotopax. They usually come separate and for this price and rounds out a lot of the problems with the rack. It's great value despite its shortcomings.
 </p>
 
+<picture>
+  <source srcset="\images\blog\tusk-pannier-rack\tusk-pannier-rack-left-camel-tank-honda-crf250-rally.webp">
+  <img src="\images\blog\tusk-pannier-rack\tusk-pannier-rack-left-camel-tank-honda-crf250-rally.jpg" alt="A side angle of the Tusk pannier rack on the Honda CRF250 Rally" />
+</picture>
+
+<blockquote>
+  The compost bin looks great lol
+</blockquote>
+
+<picture>
+  <source srcset="\images\blog\tusk-pannier-rack\tusk-pannier-rack-left-camel-tank-honda-crf250-rally.webp">
+  <img src="\images\blog\tusk-pannier-rack\tusk-pannier-rack-left-camel-tank-honda-crf250-rally.jpg" alt="The left hand side of the rack with Camel Tank installed (requires custom modification)" />
+</picture>
+
+<blockquote>
+  The left hand side of the rack with Camel Tank installed (requires custom modification, see <a href="{% post_url 2020-06-16-camel-tank %}">here</a>). Notice there's a substantial gap between the tank, pannier and bike.
+</blockquote>
+
+<picture>
+  <source srcset="\images\blog\tusk-pannier-rack\tusk-pannier-rack-right-exhaust-honda-crf250-rally.webp">
+  <img src="\images\blog\tusk-pannier-rack\tusk-pannier-rack-right-exhaust-honda-crf250-rally.jpg" alt="The right hand side of the rack with exhaust" />
+</picture>
+
+<blockquote>
+  The right hand side has a similar 2 inch gap to the standard exhaust. It could be brought in. An aftermarket exhaust can see further gains.
+</blockquote>
+
+<picture>
+  <source srcset="\images\blog\tusk-pannier-rack\tusk-pannier-rack-no-footpeg-honda-crf250-rally.webp">
+  <img src="\images\blog\tusk-pannier-rack\tusk-pannier-rack-no-footpeg-honda-crf250-rally.jpg" alt="Where the footpegs are removed for the Tusk pannier rack's unnecessary design" />
+</picture>
+
+<blockquote>
+  The foot-pegs need to be removed for these stupid steel plates.
+</blockquote>
+
+
+<h3>Poor Workmanship</h3>
 <picture>
   <source srcset="\images\blog\tusk-pannier-rack\tusk-pannier-rack-left.webp">
   <img src="\images\blog\tusk-pannier-rack\tusk-pannier-rack-left.jpg" alt="A closeup of the left pannier rack" />
