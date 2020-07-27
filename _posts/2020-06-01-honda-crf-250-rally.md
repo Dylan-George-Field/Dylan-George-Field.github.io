@@ -109,19 +109,19 @@ You can read more about why I chose the Honda CRF250 Rally <a href="/bikes/2020/
   </li>
 </ul>
 
-<h2>Thanks</h2>
-
-<p>A huge thank you to Andy Strapz, Barkbusters, B&B Offroad Engineering and Lightforce for kindly supporting me and the adventure rider community 🇦🇺</p>
-
 <h2>Stats</h2>
 
 <ul>
-  <li>Weight: 165kg</li>
-  <li>Range: 400km</li>
-  <li>Power: 24hp</li>
-  <li>Luggage: 110 litres</li>
   <li>Cost: $8,500</li>
+  <li>Power: 24hp</li>
+  <li>Range: 400km</li>
+  <li>Weight: 165kg</li>
+  <li>Luggage: 110 litres</li>
 </ul>
+
+<h2>Thanks</h2>
+
+<p>A huge thank you to Andy Strapz, Barkbusters, B&B Offroad Engineering and Lightforce for kindly supporting me and the adventure rider community 🇦🇺</p>
 
 <picture>
   <source srcset="\images\blog\honda-crf-250-rally\profiles\angle-fully-loaded-modified-honda-crf250-rally-adventure-bike.webp">
