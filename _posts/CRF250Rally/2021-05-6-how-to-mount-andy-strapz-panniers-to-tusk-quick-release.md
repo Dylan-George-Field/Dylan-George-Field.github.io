@@ -3,7 +3,7 @@ date: 06-05-2021
 title: How to mount Andy Strapz soft panniers to the Tusk quick release
 categories:
   - Modifications
-feature_image: images/blog/mount-soft-panniers/tust-quick-release-mounted-to-andy-strapz-soft-panniers
+feature_image: /images/blog/mount-soft-panniers/tust-quick-release-mounted-to-andy-strapz-soft-panniers
 feature_image_title: A close up of the mount plate screwed into the back of Andy Strapz pannier
 show_stats: false
 permalink: /bikes/honda-crf-250-rally/how-to-mount-andy-strapz-to-tusk-quick-release/
@@ -14,8 +14,8 @@ permalink: /bikes/honda-crf-250-rally/how-to-mount-andy-strapz-to-tusk-quick-rel
 </p>
 
 <picture>
-  <source srcset="images/blog/mount-soft-panniers/tust-quick-release-mounted-to-andy-strapz-soft-panniers-2.webp">
-  <img src="images/blog/mount-soft-panniers/tust-quick-release-mounted-to-andy-strapz-soft-panniers-2.jpg" alt="DThe tusk quick release mounted to andy strapz avduro II" />
+  <source srcset="/images/blog/mount-soft-panniers/tust-quick-release-mounted-to-andy-strapz-soft-panniers-2.webp">
+  <img src="/images/blog/mount-soft-panniers/tust-quick-release-mounted-to-andy-strapz-soft-panniers-2.jpg" alt="DThe tusk quick release mounted to andy strapz avduro II" />
 </picture>
 
 <p>
@@ -23,8 +23,8 @@ permalink: /bikes/honda-crf-250-rally/how-to-mount-andy-strapz-to-tusk-quick-rel
 </p>
 
 <picture>
-  <source srcset="images/blog/mount-soft-panniers/close-up-of-strap-andy-strapz-pannier.webp">
-  <img src="images/blog/mount-soft-panniers/close-up-of-strap-andy-strapz-pannier.jpg" alt="A close-up if the 'doubled-over' strap for extra strength" />
+  <source srcset="/images/blog/mount-soft-panniers/close-up-of-strap-andy-strapz-pannier.webp">
+  <img src="/images/blog/mount-soft-panniers/close-up-of-strap-andy-strapz-pannier.jpg" alt="A close-up if the 'doubled-over' strap for extra strength" />
 </picture>
 
 <p>
@@ -32,8 +32,8 @@ permalink: /bikes/honda-crf-250-rally/how-to-mount-andy-strapz-to-tusk-quick-rel
 </p>
 
 <picture>
-  <source srcset="images/blog/mount-soft-panniers/inside-andy-strapz-bag-mount.webp">
-  <img src="images/blog/mount-soft-panniers/inside-andy-strapz-bag-mount.jpg" alt="Inside the pannier showing screws, washers and corflute" />
+  <source srcset="/images/blog/mount-soft-panniers/inside-andy-strapz-bag-mount.webp">
+  <img src="/images/blog/mount-soft-panniers/inside-andy-strapz-bag-mount.jpg" alt="Inside the pannier showing screws, washers and corflute" />
 </picture>
 
 <p>
