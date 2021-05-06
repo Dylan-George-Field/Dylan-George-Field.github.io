@@ -3,7 +3,7 @@ date: 06-05-2021
 title: How to mount Andy Strapz soft panniers to the Tusk quick release
 categories:
   - Modifications
-feature_image: images/blog/mount-soft-panniers/tust-quick-release-mounted-to-andy-strapz-soft-panniers.jpg
+feature_image: images/blog/mount-soft-panniers/tust-quick-release-mounted-to-andy-strapz-soft-panniers
 feature_image_title: A close up of the mount plate screwed into the back of Andy Strapz pannier
 show_stats: false
 permalink: /bikes/honda-crf-250-rally/how-to-mount-andy-strapz-to-tusk-quick-release/
