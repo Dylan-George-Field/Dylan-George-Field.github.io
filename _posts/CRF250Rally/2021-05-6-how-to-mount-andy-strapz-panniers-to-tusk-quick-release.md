@@ -1,6 +1,6 @@
 ---
 date: 06-05-2021
-title: How to mount Andy Strapz Avduro II soft panniers to Tusk quick kelease
+title: How to mount Andy Strapz soft panniers to the Tusk quick release
 categories:
   - Modifications
 feature_image: images/blog/mount-soft-panniers/tust-quick-release-mounted-to-andy-strapz-soft-panniers.jpg
