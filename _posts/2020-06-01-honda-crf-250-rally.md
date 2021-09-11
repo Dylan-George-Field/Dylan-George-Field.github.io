@@ -12,7 +12,7 @@ permalink: /bikes/honda-crf-250-rally/
 Low-cost, modern and reliable, this 157kg dual purpose bike is perfect to go around the world. It's based on the tried and tested Honda CRF250L and has a larger fuel tank, windshield, and LED headlights. It was picked up second-hand for just under $5,000 AUD with 7,000km on the clock.
 </p>
 <p>
-You can read more about why I chose the Honda CRF250 Rally <a href="/bikes/2020/05/26/why-the-250-rally/">here</a>.
+You can read more about why I chose the Honda CRF250 Rally <a href="/bikes/honda-crf-250-rally/why/">here</a>.
 </p>
 
 <h2>Quick List</h2>

@@ -36,5 +36,7 @@ permalink: /bikes/honda-crf-250-rally/andy-strapz-avduro-II-panniers/
 <h4>Hook up with Tusk Pannier Rack Quick release</h4>
 
 <p>
-  I combined these with the Tusk pannier rack quick release bracket. I used a piece of corflute to make the bag rigid 
+  Read more about <a href="/bikes/honda-crf-250-rally/how-to-mount-andy-strapz-to-tusk-quick-release/">how to mount Andy Strapz Avduro II soft panniers to the Tusk quick release system.</a>
 </p>
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/CmEznPTxzEE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
