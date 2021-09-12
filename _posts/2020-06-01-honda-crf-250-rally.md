@@ -112,7 +112,7 @@ You can read more about why I chose the Honda CRF250 Rally <a href="/bikes/honda
 <h2>Stats</h2>
 
 <ul>
-  <li>Cost: $8,500</li>
+  <li>Cost: $8,500 AUD</li>
   <li>Power: 24hp</li>
   <li>Range: 400km</li>
   <li>Weight: 165kg</li>
