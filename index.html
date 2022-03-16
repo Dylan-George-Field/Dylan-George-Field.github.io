@@ -58,10 +58,25 @@ title: Home
 				{% include social-icon.html icon="Instagram" %} Instagram
 			</a>
 		</h1>
+			<p>This doesn't work anymore! Go to <a href="https://instagram.com/dylan_george_field">Instagram directly</a></p>
 			<ul>
 			</ul>
 			<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 			<script>
+				var token = 'IGQVJYTHBsRjE0ZAnpuTW11NjZASMUFjSW94WWdMRWJLUEl1ZADZA3UHNDX2VlNGctbE55aU1nc1MyMFNEanNZAZAHdIX2VLT1p0TlNQaU9lLU9HZA2RQOXl4RThrVDFBTm1UUWFyVEhnY25zV3VpN0ctb2hOZAAZDZD', // learn how to obtain it below
+    				userid = 1280129074, // User ID - get it in source HTML of your Instagram profile or look at the next example :)
+    				num_photos = 4; 
+				console.log('go')
+				$.ajax({
+					url: 'https://api.instagram.com/v1/users/' + userid + '/media/recent', // or /users/self/media/recent for Sandbox
+					dataType: 'jsonp',
+					type: 'GET',
+					data: {access_token: token, count: num_photos},
+					success: function(data){
+						console.log('ajax insta')
+						console.log(data);
+					}
+				});
 				$.getJSON('https://www.instagram.com/dylan_george_field/?__a=1', function(data) {
 					var posts = data.graphql.user.edge_owner_to_timeline_media.edges;
 					console.log(posts);
