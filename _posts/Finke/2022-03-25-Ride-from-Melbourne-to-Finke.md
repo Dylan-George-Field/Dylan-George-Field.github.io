@@ -10,7 +10,7 @@ permalink: /epic-rides/melbourne-to-finke/
 ---
 I will ride from Melbourne to the <a href="https://finkedesertrace.com.au/" target="_blank">Finke Desert Race</a> on Queen's Birthday long weekend on 10th - 14th, June 2022. It's a 7500km trip through the Australian outback. It's my first time out there and I look forward to checking out Uluru and the many National Parks, pubs and people scattered along the way. 
 
-The distances are big. It's not obvious from the map. There are back-to-back 500km days on a mix of outback roads, tracks and highways. I don't know the condition of them. I do know most of them are dirt and dead straight. Fatigue will be an issue and I don't like to travel over 80km/h on dirt. This increases the ride time.
+The distances are big. There are back-to-back 500km days on a mix of outback roads, tracks and highways. It's not obvious from the map. I don't know the condition of the roads, only that they are dirt and dead straight. Fatigue will be an issue and I don't like to travel over 80km/h on dirt, increasing the ride time.
 
 It will be cold. The average temperature during the day is 20 degrees celsius in winter. That's good for physical trail riding or fighting the sand. It maybe too cool for long, straight miles. It will drop to below 10 degrees celsius at night. That will be okay in the tent in a sleeping bag but not on the road as it gets dark.
 
@@ -19,7 +19,7 @@ Riding towards dusk will be dangerous. There are a few reasons:
 - Fatigue
 - Cold
 
-Kangaroos come to feed at dusk. This coupled with fatigue and the coming night cold may cause me to take risks to get to the campground on time. Packing some warm clothes will be important and knowing when to stop.
+Kangaroos will feed at dusk. This coupled with fatigue and the coming night cold may cause me to take risks to get to the campground on time. Packing some warm clothes will be important and knowing when to stop.
 
 There are few stops for fuel, water and a good rest. A good rest means a shower and a hot meal. I can camp in the outback if I need but I'd rather not. That's why the miles are so long. I can cut them back by taking highways and skipping national parks if I need too.
 
@@ -66,6 +66,12 @@ A great safety feature will by my <a href="{% post_url 2020-06-19-lightforce-lig
 19. Ngarkat > Benigo - 450km
 20. Bendigo > Home - 150km
 
+<h2>Google Map</h2>
+The real route varies from Google as it only lets me use 10 destinations per map.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d14190923.119233124!2d130.3218705838352!3d-29.731898710923456!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0x6ad646b5d2ba4df7%3A0x4045675218ccd90!2smelbourne!3m2!1d-37.8136276!2d144.96305759999998!4m5!1s0x6acec88bc673206d%3A0xf0579a51442ae50!2sLittle%20Desert%20National%20Park%2C%20Horseshoe%20Bend%20Rd%2C%20Dimboola%20VIC%203414!3m2!1d-36.4981959!2d142.0179274!4m5!1s0x6ae78cfa3a74f2cf%3A0x40609b4904401e0!2sMungo%20NSW!3m2!1d-33.7624981!2d143.1654127!4m5!1s0x6aefe03e947347bd%3A0x9b67a331b6af342d!2sMutawintji%20NSW!3m2!1d-31.073976599999998!2d142.1366452!4m5!1s0x6af6e30778d06e7b%3A0x40609b490440120!2sTibooburra%20NSW!3m2!1d-29.271291899999998!2d142.02444889999998!4m5!1s0x6a8b1bffb1f3a527%3A0x4033654628eee40!2sInnamincka%20SA!3m2!1d-27.746217599999998!2d140.7385808!4m5!1s0x6a6873c6bb92d6fd%3A0x400eef17f2097e0!2sBirdsville%20QLD!3m2!1d-25.898212599999997!2d139.353513!4m5!1s0x6a6a26a078778bd3%3A0x400eef17f209840!2sBedourie%20QLD!3m2!1d-24.535111699999998!2d139.5677302!4m5!1s0x6a76b3f00e140395%3A0x7f22446ab0d5f0bf!2sJervois%20Station%20Roadhouse%2C%20Anatye%20NT!3m2!1d-22.9509525!2d136.1427612!4m5!1s0x2b321944be8f1331%3A0x50217a82a254fd0!2sAlice%20Springs%20NT!3m2!1d-23.698041999999997!2d133.8807471!5e0!3m2!1sen!2sau!4v1648207851842!5m2!1sen!2sau" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d7027545.498507321!2d133.4746490868394!3d-30.67849351901787!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0x2b321944be8f1331%3A0x50217a82a254fd0!2sAlice%20Springs%20NT!3m2!1d-23.698041999999997!2d133.8807471!4m5!1s0x2b236c2b6d625223%3A0x43a8cd4d9bc55f21!2sUluru%2C%20Petermann%20NT!3m2!1d-25.344427699999997!2d131.0368822!4m5!1s0x2b2b037a2444969b%3A0x40217a82a2542a0!2sFinke%20NT!3m2!1d-25.5821522!2d134.5779806!4m5!1s0x6a800bb7531cd3f1%3A0xa623fb27442e90bf!2sMt%20Dare%20Hotel%2C%20Witjira%20SA!3m2!1d-26.0700778!2d135.2476196!4m5!1s0x6a86d84454ef8df9%3A0x4033654628eee80!2sOodnadatta%20SA!3m2!1d-27.550093399999998!2d135.4491827!4m5!1s0x6a8e5c14c70a8b79%3A0x4033654628eee60!2sMarree%20SA!3m2!1d-29.6487795!2d138.0633475!4m5!1s0x6a941e721ff6d78d%3A0x4033654628eedf0!2sBlinman%20SA!3m2!1d-31.0936931!2d138.6780291!4m5!1s0x6ac1b5dd7816f345%3A0xb6cff1962c208b0e!2sDanggali%20SA!3m2!1d-33.2242272!2d140.71181389999998!4m5!1s0x6ac87c96ff35a31f%3A0x4033654628eeb90!2sNgarkat%20SA!3m2!1d-35.743220699999995!2d140.8006016!4m5!1s0x6ad646b5d2ba4df7%3A0x4045675218ccd90!2sMelbourne%20VIC!3m2!1d-37.8136276!2d144.96305759999998!5e0!3m2!1sen!2sau!4v1648208013717!5m2!1sen!2sau" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <h2>Instagram</h2>
 <p>Don't forget to <a href="https://instagram.com/dylan_george_field" target="_blank">follow me on Instagram</a> 
