@@ -3,7 +3,7 @@ date: 15-01-2023
 title: Ride from Melbourne to Kosciuszko 2023
 categories:
   - Short Trips
-feature_image: /images/blog/kosciuszko/honda-crf250-rally-mt-kosciuszko-national-park-barry-way.jpg
+feature_image: /images/blog/kosciuszko/honda-crf250-rally-mt-kosciuszko-national-park-barry-way
 feature_image_title: The Honda CRF250 Rally at the entrance to Mt Kosciuszko National Park on the Barry Way
 show_stats: false
 permalink: /short-trips/melbourne-to-kosciuszko/
