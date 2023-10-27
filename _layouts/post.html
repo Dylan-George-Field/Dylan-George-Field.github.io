@@ -21,6 +21,7 @@ layout: default
 
 	<h2>Read More</h2>
 	<div class="recipes">
+		{% if page.previous.title %}
 		<div class="recipe">
 			<img class="read-more-img" src="{{page.previous.feature_image}}.webp" />
 			<a href="{{ page.previous.url}}" style="margin-top:-210px">
@@ -29,6 +30,8 @@ layout: default
 				</span>
 			</a>
 		</div>
+		{% endif %}
+		{% if page.next.title %}
 		<div class="recipe">
 			<img class="read-more-img" src="{{page.next.feature_image}}.webp" />
 			<a href="{{ page.next.url}}" style="margin-top:-210px">
@@ -37,6 +40,7 @@ layout: default
 				</span>
 			</a>
 		</div>
+		{% endif %}
 	</div>
 
 	{% if include.post.show_stats %}
