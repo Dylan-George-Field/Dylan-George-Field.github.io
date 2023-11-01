@@ -1,4 +1,4 @@
-# Adventure Site
+# Adventure Site 
 
 Based on the Treat template for Jekyll.
 
